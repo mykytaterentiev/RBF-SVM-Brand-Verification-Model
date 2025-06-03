@@ -1,0 +1,59 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+        args: ['--maxkb=1000']
+      - id: check-merge-conflict
+      - id: check-json
+      - id: check-toml
+      - id: debug-statements
+      - id: detect-private-key
+
+  - repo: https://github.com/psf/black
+    rev: 23.7.0
+    hooks:
+      - id: black
+        language_version: python3
+
+  - repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+      - id: isort
+        args: ["--profile", "black"]
+
+  - repo: https://github.com/pycqa/flake8
+    rev: 6.0.0
+    hooks:
+      - id: flake8
+        additional_dependencies: [flake8-docstrings]
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.5.1
+    hooks:
+      - id: mypy
+        additional_dependencies: [types-all]
+        exclude: ^(tests/|scripts/)
+
+  - repo: local
+    hooks:
+      - id: check-data-files
+        name: Check for data files
+        entry: bash -c 'if find . -name "*.csv" -o -name "*.xlsx" -o -name "*.parquet" | grep -v .git | head -1; then echo "Data files found! Add to .gitignore"; exit 1; fi'
+        language: system
+        pass_filenames: false
+
+      - id: check-model-files
+        name: Check for model files
+        entry: bash -c 'if find . -name "*.joblib" -o -name "*.pkl" -o -name "*.h5" | grep -v .git | head -1; then echo "Model files found! Add to .gitignore"; exit 1; fi'
+        language: system
+        pass_filenames: false
+
+      - id: check-secrets
+        name: Check for potential secrets
+        entry: bash -c 'if grep -r -i "password\|secret\|key\|token" --include="*.py" --include="*.yaml" --include="*.json" . | grep -v ".git" | grep -v "example" | head -1; then echo "Potential secrets found!"; exit 1; fi'
+        language: system
+        pass_filenames: false
