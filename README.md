@@ -10,6 +10,7 @@ A clean, modular implementation of an RBF-kernel Support Vector Machine for bran
 - **Hyperparameter Tuning**: Grid search optimization with F1-score focus
 - **Detailed Evaluation**: Brand frequency analysis, error analysis, confidence metrics
 - **Modular Design**: Clean separation of concerns for easy maintenance and extension
+- **Dummy Data Generation**: Create synthetic datasets for testing and development
 
 ## Project Structure
 
@@ -29,9 +30,10 @@ rbf-svm-vertex/
 │       └── evaluator.py       # Model evaluation
 ├── scripts/
 │   ├── train_model.py         # Training script
-│   └── predict.py             # Prediction script
+│   ├── predict.py             # Prediction script
+│   └── generate_dummy_data.py # Dummy data generation
 ├── data/
-│   └── 300k.csv              # Dataset
+│   └── dummy_300k.csv         # Generated dummy dataset
 ├── models/                    # Saved model artifacts
 ├── requirements.txt
 └── README.md
@@ -50,22 +52,41 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. Train Model
+### 2. Generate Dummy Data (for testing)
 
 ```bash
-# Basic training with hyperparameter tuning
+# Generate 300k dummy samples
+python scripts/generate_dummy_data.py
+
+# Generate custom size dataset
+python scripts/generate_dummy_data.py --n_samples 10000 --output_path data/dummy_10k.csv
+
+# Generate with custom random seed
+python scripts/generate_dummy_data.py --random_state 123
+```
+
+The dummy data generator creates realistic synthetic data with:
+- **Realistic brand distribution**: Common brands (Spotify, Amazon) to rare local businesses
+- **Geographic diversity**: Multiple countries with appropriate city distributions  
+- **Authentic patterns**: Website matches, address variations, frequency-based verification rates
+- **Proper data types**: All columns match the expected schema
+
+### 3. Train Model
+
+```bash
+# Train with dummy data (auto-detected)
 python scripts/train_model.py --tune_hyperparameters
 
-# Custom configuration
+# Train with custom data
 python scripts/train_model.py \
-    --data_path data/300k.csv \
+    --data_path data/your_data.csv \
     --output_dir models \
     --tune_hyperparameters \
     --cv_folds 5 \
     --log_level INFO
 ```
 
-### 3. Make Predictions
+### 4. Make Predictions
 
 ```bash
 # Predict on new data
@@ -140,7 +161,7 @@ trainer = ModelTrainer(random_state=42)
 
 # Run complete pipeline
 results = trainer.train_pipeline(
-    data_path="data/300k.csv",
+    data_path="data/dummy_300k.csv",
     output_dir="models",
     tune_hyperparameters=True
 )
@@ -149,14 +170,19 @@ results = trainer.train_pipeline(
 model, feature_engineer = trainer.load_trained_model("models")
 ```
 
-### Custom Feature Engineering
+### Custom Dummy Data Generation
 
 ```python
-from rbf_svm import FeatureEngineer
+from scripts.generate_dummy_data import DummyDataGenerator
 
-fe = FeatureEngineer()
-X_train, y_train, weights = fe.fit_transform(train_df)
-X_test = fe.transform(test_df)
+# Create custom generator
+generator = DummyDataGenerator(random_state=42)
+
+# Generate custom dataset
+df = generator.generate_dataset(n_samples=50000)
+
+# Save to file
+df.to_csv("data/custom_dummy.csv", index=False)
 ```
 
 ## Model Artifacts
@@ -199,17 +225,15 @@ The codebase is designed for easy extension:
 
 ### Common Issues
 
-1. **Memory Issues**: Large TF-IDF matrices - reduce `max_features` in FeatureEngineer
-2. **Slow Training**: Large dataset - reduce hyperparameter grid or use fewer CV folds
-3. **Poor Performance**: Check data quality and feature engineering validity
+1. **No data file found**: Generate dummy data with `python scripts/generate_dummy_data.py`
+2. **Memory issues**: Reduce sample size or use `--n_samples 10000` for testing
+3. **Slow training**: Use dummy data first, then optimize with `scripts/train_model_fast.py`
 
-### Logging
+### Performance Tips
 
-All components use Python logging. Set log level for detailed debugging:
-
-```bash
-python scripts/train_model.py --log_level DEBUG
-```
+- **Start small**: Use 10k samples for quick testing
+- **Scale up**: Generate full 300k dataset for production-like testing
+- **Optimize features**: Adjust TF-IDF parameters in feature engineering
 
 ## License
 
