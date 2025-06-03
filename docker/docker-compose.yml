@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  rbf-svm:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ../data:/app/data
+      - ../models:/app/models
+      - ../logs:/app/logs
+    environment:
+      - LOG_LEVEL=INFO
+      - RANDOM_STATE=42
+    command: >
+      sh -c "
+        python scripts/generate_dummy_data.py --n_samples 10000 &&
+        python scripts/train_model.py --tune_hyperparameters
+      "
+
+  jupyter:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - ../:/app
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    command: >
+      sh -c "
+        pip install jupyter jupyterlab &&
+        jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token=''
+      "

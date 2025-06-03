@@ -58,6 +58,9 @@ mypy src/
 ### 2. Testing
 
 ```bash
+# Generate test data first
+python scripts/generate_dummy_data.py --n_samples 1000 --output_path data/test_data.csv
+
 # Run all tests
 pytest
 
@@ -66,6 +69,9 @@ pytest --cov=rbf_svm --cov-report=html
 
 # Run specific test
 pytest tests/test_feature_engineer.py
+
+# Run integration tests
+pytest tests/test_integration.py -v
 ```
 
 ### 3. Pre-commit Hooks
@@ -177,12 +183,20 @@ class TestFeatureEngineer:
 
 ### 2. Test Data
 
-- Use synthetic data for unit tests
-- Create fixtures for common test scenarios
-- Mock external dependencies
+- Use `scripts/generate_dummy_data.py` for test datasets
+- Create fixtures for common test scenarios  
+- Mock external dependencies when needed
 - Test edge cases and error conditions
+- Use small datasets (1k samples) for unit tests
 
 ### 3. Integration Tests
+
+```bash
+# Test complete pipeline with small dataset
+python scripts/generate_dummy_data.py --n_samples 1000 --output_path data/integration_test.csv
+python scripts/train_model.py --data_path data/integration_test.csv --output_dir models_test
+python scripts/evaluate_model.py --data_path data/integration_test.csv --model_dir models_test
+```
 
 - Test complete pipelines
 - Use sample datasets (non-sensitive)
