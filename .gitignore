@@ -155,11 +155,45 @@ cython_debug/
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be added to the global gitignore or merged into this project gitignore.  For a PyCharm
-#  project, it is recommended to include the directory .idea/uncommitted_changes.xml
+#  project, it is generally recommended to include the gitignore file in the top level
+#  directory of the project.
 .idea/
 
-# VS Code
-.vscode/
+# Project-specific ignores
+# ======================
+
+# Data files (add specific patterns as needed)
+data/*.csv
+data/*.json
+data/*.xlsx
+data/*.parquet
+!data/sample_*.csv
+!data/dummy_*.csv
+
+# Model artifacts
+models/*.joblib
+models/*.pkl
+models/*.model
+*.joblib
+*.pkl
+
+# Results and outputs
+results/*.json
+results/*.png
+results/*.pdf
+results/*.txt
+results/logs/
+results/plots/
+results/reports/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+.tmp/
 
 # OS generated files
 .DS_Store
@@ -170,75 +204,42 @@ cython_debug/
 ehthumbs.db
 Thumbs.db
 
-# ML/Data Science specific
-# Data files - CRITICAL for privacy
-data/
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.h5
-*.hdf5
-*.pickle
-*.pkl
-*.json
-*.jsonl
-*.npy
-*.npz
-
-# Trained models and artifacts
-models/
-*.joblib
-*.pkl
-*.h5
-*.hdf5
-*.onnx
-*.pt
-*.pth
-*.tar.gz
-
-# Logs and outputs
-logs/
-outputs/
-runs/
-wandb/
-mlruns/
-*.log
-training.log
-
-# Temporary files
-tmp/
-temp/
-.tmp/
-*.tmp
-
-# Configuration files with secrets
-config.yaml
-config.json
-.env
-.env.local
-.env.production
-secrets.yaml
-credentials.json
-
-# Jupyter notebook outputs
-*.ipynb
-
-# Large files
-*.zip
-*.tar
-*.gz
-*.bz2
-*.7z
-
-# IDE specific
+# IDE/Editor files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/.ropeproject/
 *.swp
 *.swo
 *~
 
-# Custom project excludes
-evaluation_plots/
-predictions/
-experiments/
-checkpoints/
-cache/
+# Machine learning specific
+# Weights & Biases
+wandb/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Tensorboard logs
+runs/
+tensorboard_logs/
+
+# Large files that shouldn't be in git
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.pkl.gz
+*.joblib.gz
+
+# Configuration files with secrets
+config/secrets.json
+config/local_config.py
+.env.local
+.env.production
+
+# Backup files
+*.bak
+*.backup
+*.old

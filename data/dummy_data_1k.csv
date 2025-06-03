@@ -1,0 +1,1001 @@
+brand_name,brand_freq,snowdrop_name,address_norm,country,city,website,website_match,target,calculated_weights,split
+Dell,18,Dell Official,7450 First St,USA,Chicago,www.dell.net,0.939,not_verified,1.121,TRAIN
+Oracle,21,Quality Oracle,5363 Second Ave,Germany,Cologne,www.oracle.com,0.93,verified,1.041,TRAIN
+Sony,19,Sony Outlet,41 Hill Rd,Germany,Stuttgart,www.sony.co.uk,0.855,verified,1.321,TRAIN
+Tech Books,4,Tech Books Online,1527 Market St,USA,Houston,www.techbooks.de,0.831,verified,1.627,TRAIN
+Google,15,Google Official,,UK,Liverpool,www.google.com,0.927,verified,1.13,VALIDATE
+Sony,19,Sony Market,5870 Hill Rd,UK,Manchester,www.sony.co.uk,0.92,verified,1.167,TRAIN
+Pepsi,34,The Pepsi,1038 Hill Rd,Australia,Perth,www.pepsi.de,0.836,verified,1.021,TRAIN
+Microsoft,18,Microsoft,,France,Marseille,www.microsoft.net,0.941,verified,1.698,TRAIN
+Smart Beauty,6,Smart Beauty Shop,8757 First St,Australia,Melbourne,www.smartbeauty.net,0.891,verified,1.276,TRAIN
+Digital Travel,12,Digital Travel Market,3569 First St,Canada,Edmonton,,0.0,not_verified,1.432,TRAIN
+Nike,31,Nike Online,3471 First St,Australia,Gold Coast,www.nike.org,0.934,verified,1.026,TEST
+Mercedes,17,Mercedes Market,4400 Park Rd,Canada,Toronto,www.mercedes.co.uk,0.967,not_verified,1.317,TRAIN
+HP,15,HP Market,4647 Park Rd,France,Nice,www.hp.fr,0.834,verified,1.115,TRAIN
+Starbucks,20,Starbucks Outlet,8968 Second Ave,UK,London,www.starbucks.de,0.804,verified,1.346,TRAIN
+Smart Travel,3,Smart Travel Direct,2140 Second Ave,USA,New York,www.smarttravel.org,0.956,verified,1.581,TRAIN
+UniqueShop035,1,UniqueShop035 Shop,7952 Hill Rd,France,Nice,www.uniqueshop035.org,0.922,not_verified,2.755,TRAIN
+Nike,31,Nike Direct,5632 Market St,Germany,Frankfurt,www.nike.net,0.94,verified,1.131,TRAIN
+DigitalWorks,5,DigitalWorks Direct,794 Main St,France,Paris,www.digitalworks.com,0.968,verified,1.977,TRAIN
+UltraLtd,7,Original UltraLtd,1632 Market St,Canada,Vancouver,,0.0,not_verified,1.663,TRAIN
+Nike,31,Nike Direct,7530 Main St,Australia,Gold Coast,www.nike.de,0.961,verified,0.911,TRAIN
+Oracle,21,Oracle Online,2036 Hill Rd,Australia,Brisbane,,0.0,not_verified,0.85,VALIDATE
+Oracle,21,Oracle,2589 First St,UK,Glasgow,www.oracle.fr,0.992,verified,1.188,TRAIN
+Ford,24,Ford Direct,7480 Main St,Australia,Adelaide,www.ford.net,0.907,verified,1.089,TRAIN
+H&M,13,H&M Store,7010 Oak Ave,UK,Manchester,www.h&m.net,0.898,verified,1.324,TEST
+UniqueShop064,1,UniqueShop064,2162 Market St,UK,Manchester,www.uniqueshop064.fr,0.88,verified,2.581,TRAIN
+Pro Health,8,Pro Health Outlet,,France,Marseille,,0.0,not_verified,1.538,TRAIN
+Ultra Home,8,Ultra Home Market,4946 Oak Ave,UK,London,www.ultrahome.com,0.831,verified,1.648,TRAIN
+McDonald's,18,McDonald's Store,4490 Main St,UK,Bristol,www.mcdonalds.co.uk,0.915,not_verified,1.018,TRAIN
+Oracle,21,Oracle,5906 Park Rd,France,Paris,www.oracle.co.uk,0.855,not_verified,0.834,TRAIN
+Google,15,Google Market,1351 Park Rd,France,Toulouse,www.google.fr,0.984,verified,1.224,TRAIN
+Samsung,27,Samsung Outlet,2712 Main St,Australia,Adelaide,www.samsung.de,0.917,verified,0.976,TRAIN
+H&M,13,H&M Shop,6494 Market St,USA,Chicago,www.h&m.com,0.919,verified,1.305,TRAIN
+MaxCorp,1,MaxCorp,5006 Market St,Australia,Sydney,www.maxcorp.com,0.871,verified,2.599,TEST
+Nike,31,Nike,3837 First St,Canada,Toronto,www.nike.org,0.81,not_verified,0.953,TRAIN
+Mercedes,17,Mercedes Official,1495 Market St,UK,Bristol,www.mercedes.com,0.806,verified,1.354,TRAIN
+Apple,26,Apple Online,,France,Toulouse,www.apple.fr,0.885,verified,1.128,TRAIN
+H&M,13,H&M Online,1560 Main St,Canada,Montreal,www.h&m.de,0.817,not_verified,1.47,TRAIN
+Coca-Cola,30,Coca-Cola,3497 First St,UK,Bristol,www.coca-cola.com,0.921,verified,1.12,TRAIN
+Digital Beauty,10,Digital Beauty Shop,1277 Oak Ave,Australia,Melbourne,www.digitalbeauty.org,0.976,verified,1.661,TRAIN
+Max Travel,5,Max Travel Direct,9727 Oak Ave,USA,Chicago,www.maxtravel.co.uk,0.977,verified,2.284,TRAIN
+Digital Beauty,10,Digital Beauty Direct,8511 Market St,France,Paris,www.digitalbeauty.com,0.932,verified,1.331,TEST
+Prime Auto,9,Prime Auto Outlet,7292 Main St,UK,Birmingham,www.primeauto.com,0.842,not_verified,1.433,VALIDATE
+MaxGroup,1,MaxGroup Shop,133 Market St,Germany,Cologne,www.maxgroup.de,0.973,verified,2.22,TRAIN
+UltraSolutions,3,UltraSolutions Market,5630 Hill Rd,Canada,Ottawa,www.ultrasolutions.fr,0.977,verified,2.072,TEST
+PrimeHub,4,PrimeHub Market,,Australia,Brisbane,www.primehub.fr,0.839,verified,1.56,TRAIN
+Prime Music,6,Prime Music Market,1976 Hill Rd,Australia,Adelaide,www.primemusic.org,0.947,verified,1.611,TRAIN
+Digital Travel,12,Digital Travel Official,6920 Market St,UK,Liverpool,www.digitaltravel.com,0.857,verified,1.181,TEST
+H&M,13,Quality H&M,2166 First St,France,Marseille,,0.0,not_verified,1.064,TRAIN
+Spotify,18,Spotify,1161 Oak Ave,Canada,Calgary,www.spotify.de,0.961,verified,1.131,TRAIN
+Google,15,Google,6277 Main St,UK,London,www.google.org,0.999,verified,1.162,TRAIN
+Max Music,5,Max-Music,1679 Main St,Canada,Vancouver,www.maxmusic.fr,0.806,verified,1.551,TRAIN
+Global Fashion,7,Global Fashion Market,5134 Park Rd,UK,Bristol,www.globalfashion.net,0.979,verified,1.409,TRAIN
+Apple,26,Apple Outlet,4903 Oak Ave,Australia,Gold Coast,,0.0,verified,0.953,TRAIN
+Adobe,21,Adobe Outlet,6271 Hill Rd,Germany,Hamburg,www.adobe.org,0.925,verified,0.858,TRAIN
+Microsoft,18,Microsoft Direct,2182 Market St,Canada,Vancouver,www.microsoft.net,0.995,verified,1.05,VALIDATE
+Amazon,13,Amazon,,Australia,Gold Coast,www.amazon.net,0.893,verified,1.459,VALIDATE
+Ford,24,The Ford,2341 Main St,Canada,Calgary,www.ford.org,0.969,verified,1.151,TRAIN
+Samsung,27,Samsung,,Germany,Cologne,www.samsung.org,0.812,verified,1.184,TRAIN
+Netflix,26,Netflix,8692 Second Ave,Canada,Montreal,,0.0,verified,0.839,VALIDATE
+Nike,31,Nike Market,139 Second Ave,Germany,Frankfurt,www.nike.de,0.867,verified,0.874,VALIDATE
+McDonald's,18,McDonald's Official,2689 First St,USA,Los Angeles,www.mcdonalds.org,0.813,verified,1.516,VALIDATE
+Global Auto,6,Global Auto,5754 Market St,Australia,Adelaide,www.globalauto.co.uk,0.995,verified,1.757,TRAIN
+Mercedes,17,Authentic Mercedes,,USA,Chicago,www.mercedes.fr,0.963,verified,1.237,TRAIN
+Elite Fashion,3,Elite Fashion Store,3491 Market St,UK,Liverpool,,0.0,verified,1.67,TRAIN
+PrimeInc,3,PrimeInc Online,2481 First St,UK,Birmingham,www.primeinc.com,0.971,verified,1.623,TRAIN
+Global Music,6,Global Music Shop,7249 Hill Rd,Australia,Gold Coast,www.globalmusic.org,0.988,verified,1.197,TEST
+Adobe,21,Adobe,3560 Main St,USA,Philadelphia,www.adobe.net,0.817,verified,1.196,TRAIN
+Prime Music,6,Original Prime Music,1647 Oak Ave,USA,New York,www.primemusic.net,0.877,not_verified,1.759,TRAIN
+Digital Books,15,Digital Books Direct,2018 Second Ave,France,Nantes,www.digitalbooks.org,0.814,verified,1.306,TRAIN
+McDonald's,18,Authentic McDonald's,6292 Park Rd,USA,Phoenix,www.mcdonalds.com,0.842,verified,1.061,TRAIN
+Global Books,4,Global-Books,7036 Park Rd,France,Toulouse,,0.0,verified,2.17,TRAIN
+PrimeLab,2,Premium PrimeLab,2291 Oak Ave,France,Lyon,www.primelab.com,0.846,not_verified,1.911,VALIDATE
+Zara,23,Zara,4538 Market St,USA,Phoenix,www.zara.de,0.894,verified,0.966,TRAIN
+UniqueShop066,1,Quality UniqueShop066,1381 Oak Ave,Canada,Ottawa,www.uniqueshop066.de,0.854,verified,2.335,TRAIN
+UniqueShop028,1,UniqueShop028,9067 Second Ave,France,Toulouse,www.uniqueshop028.de,0.82,verified,2.098,TRAIN
+Max Books,3,Max Books Outlet,9831 Market St,Australia,Melbourne,,0.0,not_verified,2.099,TRAIN
+Microsoft,18,Microsoft,9955 Park Rd,Canada,Calgary,www.microsoft.com,0.833,verified,1.252,TEST
+SuperHub,6,SuperHub Official,440 Hill Rd,UK,Liverpool,www.superhub.net,0.829,verified,1.19,TRAIN
+Adobe,21,Adobe Store,4943 Oak Ave,Australia,Brisbane,www.adobe.de,0.995,verified,0.872,TRAIN
+Prime Fashion,6,Prime Fashion Online,8483 Second Ave,UK,Glasgow,,0.0,not_verified,1.542,TRAIN
+Nike,31,Top Nike,8349 Oak Ave,France,Nice,www.nike.org,0.952,verified,0.99,TRAIN
+Zara,23,Zara Market,6419 Park Rd,USA,Houston,www.zara.de,0.994,not_verified,0.829,TRAIN
+HP,15,HP,895 Hill Rd,Canada,Ottawa,www.hp.org,0.888,verified,1.28,TRAIN
+GlobalLtd,4,GlobalLtd Official,3922 First St,USA,Philadelphia,www.globalltd.org,0.856,not_verified,2.493,TRAIN
+Digital Fashion,8,Authentic Digital Fashion,6323 Main St,UK,Liverpool,www.digitalfashion.net,0.96,verified,1.699,TRAIN
+Pepsi,34,Pepsi Store,3950 First St,Australia,Melbourne,www.pepsi.fr,0.865,verified,0.89,TEST
+Smart Beauty,6,SmartBeauty,9731 Main St,France,Lyon,,0.0,verified,1.328,TRAIN
+Starbucks,20,Starbucks,8656 Main St,Germany,Munich,www.starbucks.org,0.86,not_verified,1.145,TEST
+Puma,15,Puma Online,5917 Park Rd,UK,Liverpool,,0.0,not_verified,1.267,TRAIN
+Tech Home,6,Tech Home Direct,2163 First St,France,Nantes,www.techhome.de,0.847,not_verified,1.336,VALIDATE
+EliteCorp,1,EliteCorp,,UK,Bristol,www.elitecorp.net,0.826,not_verified,2.833,VALIDATE
+Coca-Cola,30,Coca-Cola,9313 First St,Australia,Perth,,0.0,not_verified,1.147,TRAIN
+Elite Food,3,Premium Elite Food,5987 Second Ave,Canada,Toronto,www.elitefood.net,0.851,verified,2.192,TRAIN
+Elite Health,5,Elite Health Shop,2831 Hill Rd,UK,Glasgow,,0.0,verified,1.916,TRAIN
+UniqueShop084,1,UniqueShop084 Outlet,7718 Hill Rd,UK,,www.uniqueshop084.com,0.871,verified,2.403,TEST
+UltraHub,2,UltraHub Online,1196 Main St,Canada,Montreal,www.ultrahub.org,0.935,verified,2.497,TRAIN
+Nike,31,Nike,9624 Main St,UK,London,,0.0,verified,1.07,VALIDATE
+Sony,19,Sony,226 Park Rd,Australia,Melbourne,www.sony.de,0.813,verified,1.106,TEST
+Spotify,18,Spotify,3535 Main St,France,Marseille,www.spotify.org,0.842,verified,1.759,TRAIN
+Toyota,20,Toyota Shop,991 Hill Rd,Germany,Cologne,www.toyota.de,0.962,verified,1.726,TRAIN
+UniqueShop061,1,UniqueShop061 Direct,6521 Second Ave,Germany,Berlin,,0.0,not_verified,2.208,TRAIN
+Dell,18,Dell Market,4694 Market St,USA,,www.dell.co.uk,0.829,verified,1.535,TRAIN
+Apple,26,Apple Market,8210 Hill Rd,Canada,Toronto,www.apple.com,0.869,verified,0.967,TRAIN
+Adidas,5,Best Adidas,6807 First St,Australia,Adelaide,www.adidas.net,0.973,verified,2.094,TRAIN
+H&M,13,H&M Shop,6591 Main St,Australia,Brisbane,,0.0,not_verified,1.129,TRAIN
+Samsung,27,Samsung Direct,8792 Second Ave,Australia,Brisbane,,0.0,verified,1.021,TRAIN
+SuperLab,2,Top SuperLab,2502 Park Rd,France,Nice,www.superlab.com,0.831,verified,1.71,TRAIN
+ProGroup,1,ProGroup Direct,1370 Park Rd,France,Lyon,www.progroup.co.uk,0.817,not_verified,2.025,TRAIN
+Pro Fashion,6,Pro Fashion Shop,1295 Second Ave,Germany,Stuttgart,www.profashion.fr,0.897,verified,1.624,TRAIN
+MaxHub,5,MaxHub Online,,Germany,Hamburg,www.maxhub.com,0.86,verified,1.761,TEST
+DigitalSystems,3,DigitalSystems Official,3330 Hill Rd,France,Nantes,www.digitalsystems.com,0.913,not_verified,2.067,TRAIN
+Adobe,21,Adobe Direct,2546 Second Ave,USA,Phoenix,www.adobe.co.uk,0.961,verified,1.094,TRAIN
+Coca-Cola,30,Coca-Cola Market,5354 First St,Canada,Calgary,www.coca-cola.com,0.827,verified,0.995,TRAIN
+Microsoft,18,Microsoft,9609 Market St,UK,Liverpool,www.microsoft.com,0.916,verified,1.209,TRAIN
+Smart Games,6,Smart Games Official,1084 Park Rd,Germany,Hamburg,www.smartgames.co.uk,0.901,verified,1.479,TRAIN
+Pro Fashion,6,Pro Fashion Market,7168 Market St,Canada,Calgary,www.profashion.co.uk,0.829,verified,1.231,TRAIN
+Intel,12,Authentic Intel,3910 Main St,Germany,Frankfurt,www.intel.net,0.925,verified,1.397,TRAIN
+Adobe,21,Adobe,,USA,Phoenix,www.adobe.fr,0.855,verified,1.094,VALIDATE
+EliteHub,1,EliteHub Direct,,UK,Glasgow,www.elitehub.de,0.898,verified,2.585,VALIDATE
+Digital Fashion,8,Digital Fashion Direct,4006 Main St,UK,Manchester,www.digitalfashion.de,0.816,not_verified,1.14,TRAIN
+Tech Food,4,Tech_Food,7119 Main St,USA,Phoenix,www.techfood.fr,0.892,verified,1.591,TRAIN
+McDonald's,18,McDonald's Store,7429 Second Ave,Australia,Brisbane,www.mcdonalds.fr,0.861,verified,1.44,TRAIN
+ProInc,3,ProInc Online,9976 Main St,UK,Manchester,,0.0,not_verified,2.021,TRAIN
+Coca-Cola,30,Coca-Cola Official,5068 Market St,UK,Manchester,www.coca-cola.fr,0.964,verified,0.879,TRAIN
+Target,13,Target,2878 Main St,Canada,Ottawa,www.target.co.uk,0.811,verified,1.689,TRAIN
+Coca-Cola,30,Coca-Cola Market,208 Market St,Australia,Sydney,www.coca-cola.de,0.884,verified,1.156,VALIDATE
+Toyota,20,Toyota Official,2249 Market St,Australia,Melbourne,www.toyota.org,0.892,verified,1.648,TRAIN
+Nike,31,Nike,186 Oak Ave,Germany,Hamburg,www.nike.org,0.945,verified,1.1,VALIDATE
+Oracle,21,Oracle Outlet,8134 Park Rd,Australia,Sydney,,0.0,not_verified,1.029,TRAIN
+Pro Fashion,6,Pro_Fashion,8569 Second Ave,Germany,Stuttgart,www.profashion.org,0.915,verified,1.215,VALIDATE
+Digital Travel,12,Digital Travel,4248 Oak Ave,Germany,Cologne,www.digitaltravel.net,0.933,verified,1.197,TRAIN
+UniqueShop023,1,UniqueShop023 Market,6093 Oak Ave,UK,Liverpool,www.uniqueshop023.fr,0.955,verified,2.555,TRAIN
+Smart Home,9,Smart Home Shop,4404 Market St,UK,Bristol,www.smarthome.fr,0.972,verified,1.341,TRAIN
+Elite Music,12,Elite Music Online,1935 Hill Rd,Germany,Berlin,www.elitemusic.de,0.863,verified,1.065,TRAIN
+Netflix,26,Netflix Shop,481 Park Rd,UK,London,www.netflix.com,0.908,verified,0.869,TRAIN
+SuperSystems,2,Authentic SuperSystems,7035 Park Rd,UK,Liverpool,www.supersystems.co.uk,0.968,verified,1.714,VALIDATE
+SuperHub,6,SuperHub Outlet,8583 Main St,France,Lyon,,0.0,verified,1.32,TRAIN
+Microsoft,18,Microsoft,4309 Market St,UK,Bristol,www.microsoft.de,0.998,verified,1.011,VALIDATE
+Max Music,5,Max Music Store,9448 Market St,France,Paris,www.maxmusic.net,0.978,verified,2.169,TEST
+MaxInc,3,MaxInc,,France,Lyon,www.maxinc.com,0.874,not_verified,2.433,VALIDATE
+Dell,18,Dell,,USA,Los Angeles,www.dell.fr,0.839,verified,1.123,TRAIN
+UniqueShop025,1,UniqueShop025 Market,1263 First St,Canada,Vancouver,,0.0,not_verified,2.459,TRAIN
+Global Food,8,Global Food Direct,7458 Second Ave,France,Toulouse,,0.898,verified,1.53,TEST
+EliteSystems,2,EliteSystems Online,5901 Main St,France,Nice,,0.0,not_verified,2.432,TRAIN
+UltraLtd,7,UltraLtd Shop,8186 Hill Rd,Australia,Sydney,www.ultraltd.com,0.948,not_verified,1.576,TRAIN
+Digital Travel,12,Digital Travel Online,9288 Oak Ave,Australia,Gold Coast,www.digitaltravel.co.uk,0.899,verified,1.704,TRAIN
+Sony,19,Sony Outlet,,Australia,Brisbane,,0.0,verified,1.185,TRAIN
+Pepsi,34,Pepsi Online,6025 Oak Ave,USA,Los Angeles,www.pepsi.org,0.897,verified,0.902,TRAIN
+Max Auto,6,Max Auto Market,,Germany,Frankfurt,,0.0,verified,1.111,VALIDATE
+Pepsi,34,Pepsi,4180 Hill Rd,Germany,Cologne,www.pepsi.fr,0.968,verified,1.0,TRAIN
+Dell,18,Dell Shop,1686 Second Ave,UK,Manchester,www.dell.fr,0.872,verified,1.191,TEST
+Apple,26,Apple Outlet,1890 Oak Ave,Germany,Frankfurt,,0.0,not_verified,1.104,TRAIN
+Nike,31,Nike Direct,8337 Main St,UK,Liverpool,www.nike.fr,0.972,verified,0.964,TRAIN
+Zara,23,Zara,722 Hill Rd,UK,Liverpool,,0.0,verified,1.191,TRAIN
+HP,15,HP Market,202 Oak Ave,Australia,Adelaide,www.hp.co.uk,0.881,verified,1.748,TRAIN
+Global Music,6,Global Music Online,754 First St,Canada,Vancouver,www.globalmusic.co.uk,0.866,verified,1.626,VALIDATE
+DigitalInc,2,DigitalInc Direct,5964 First St,Australia,Gold Coast,www.digitalinc.net,0.891,not_verified,2.192,TRAIN
+Nike,31,Nike Shop,2459 Oak Ave,Canada,Calgary,,0.0,not_verified,0.957,TRAIN
+UniqueShop090,1,UniqueShop090 Market,580 Second Ave,France,Nice,www.uniqueshop090.net,0.952,verified,2.672,TEST
+Digital Travel,12,Digital_Travel,6871 Oak Ave,USA,,www.digitaltravel.net,0.825,verified,1.46,TRAIN
+Pro Fashion,6,Pro Fashion Direct,5273 Oak Ave,Germany,Cologne,www.profashion.de,0.839,verified,1.404,TRAIN
+Oracle,21,Oracle Direct,6820 Market St,UK,London,www.oracle.org,0.99,verified,0.971,TRAIN
+Google,15,Google Official,5242 Park Rd,USA,Los Angeles,www.google.org,0.835,verified,1.596,TRAIN
+Max Auto,6,Max Auto Market,,France,Nice,www.maxauto.co.uk,0.914,verified,1.324,TRAIN
+McDonald's,18,Best McDonald's,1277 Second Ave,Australia,Perth,www.mcdonalds.net,0.916,verified,1.159,TRAIN
+Smart Beauty,6,SmartBeauty,6109 Main St,UK,Liverpool,www.smartbeauty.fr,0.898,not_verified,1.727,TEST
+Pro Health,8,Pro Health Official,8226 Market St,USA,Los Angeles,www.prohealth.fr,0.929,verified,1.601,TRAIN
+Ultra Home,8,Ultra Home Official,863 Oak Ave,Germany,Frankfurt,www.ultrahome.org,0.846,not_verified,1.677,TRAIN
+Adobe,21,Adobe Outlet,3657 Hill Rd,France,Paris,,0.0,verified,1.183,TRAIN
+Samsung,27,Samsung Official,8451 Main St,France,Nice,www.samsung.org,0.911,verified,0.936,TRAIN
+Mercedes,17,Mercedes Official,,USA,New York,www.mercedes.co.uk,0.874,verified,1.389,TRAIN
+UltraCorp,5,UltraCorp Outlet,6569 Main St,Germany,Stuttgart,www.ultracorp.co.uk,0.932,verified,1.749,TEST
+TechCorp,2,TechCorp Market,7621 Hill Rd,UK,Liverpool,www.techcorp.com,0.828,verified,2.309,TRAIN
+Elite Music,12,Elite Music Direct,4626 Hill Rd,France,Paris,,0.914,not_verified,1.242,TEST
+Pepsi,34,Quality Pepsi,5091 Park Rd,Australia,Gold Coast,,0.0,not_verified,1.143,VALIDATE
+H&M,13,Premium H&M,1416 Second Ave,Germany,Frankfurt,,0.0,not_verified,1.117,VALIDATE
+Pepsi,34,Pepsi Official,7484 Main St,Germany,Hamburg,www.pepsi.co.uk,0.837,verified,1.178,VALIDATE
+Samsung,27,Samsung Official,6045 Oak Ave,USA,Philadelphia,www.samsung.com,0.856,verified,0.933,TRAIN
+UniqueShop024,1,UniqueShop024 Store,4778 Second Ave,France,Toulouse,www.uniqueshop024.org,0.844,verified,2.646,TRAIN
+Ford,24,Ford,4980 Market St,UK,Glasgow,www.ford.co.uk,0.837,verified,0.848,TRAIN
+Samsung,27,Original Samsung,3975 First St,Germany,Hamburg,www.samsung.co.uk,0.965,verified,1.121,TRAIN
+Samsung,27,Samsung Online,6034 Second Ave,France,Nantes,www.samsung.net,0.857,verified,0.855,TRAIN
+BMW,5,BMW,8084 Hill Rd,Australia,Adelaide,www.bmw.org,0.985,not_verified,1.829,TRAIN
+UniqueShop042,1,Authentic UniqueShop042,3202 Market St,USA,Houston,,0.0,not_verified,2.752,TRAIN
+UniqueShop011,1,UniqueShop011 Direct,,UK,Birmingham,www.uniqueshop011.org,0.994,not_verified,2.946,VALIDATE
+Coca-Cola,30,Authentic Coca-Cola,4017 Oak Ave,Germany,Munich,www.coca-cola.de,0.914,verified,1.143,TRAIN
+Adobe,21,Adobe,,USA,Chicago,,0.0,verified,1.082,TRAIN
+Pepsi,34,Pepsi Official,105 First St,France,Nice,www.pepsi.de,0.829,verified,1.071,VALIDATE
+PrimeWorks,3,PrimeWorks,,Germany,Hamburg,www.primeworks.net,0.875,verified,2.373,TRAIN
+Intel,12,Intel Official,8873 Park Rd,UK,London,www.intel.de,0.96,verified,1.043,TRAIN
+Starbucks,20,Starbucks,158 Park Rd,Australia,Gold Coast,www.starbucks.com,0.873,verified,1.38,TEST
+Target,13,The Target,24 Hill Rd,USA,Phoenix,www.target.co.uk,0.817,not_verified,1.307,TEST
+Zara,23,Premium Zara,,France,Paris,www.zara.fr,0.911,verified,1.135,TRAIN
+Super Auto,6,Super Auto Market,6165 Hill Rd,France,Paris,www.superauto.com,0.969,verified,1.151,TEST
+UniqueShop033,1,Original UniqueShop033,5039 Main St,Germany,Stuttgart,www.uniqueshop033.org,0.959,not_verified,2.511,TEST
+SuperWorks,2,SuperWorks Official,3362 Second Ave,UK,Bristol,,0.0,not_verified,1.961,VALIDATE
+Ford,24,Ford,,Canada,Calgary,www.ford.de,0.835,verified,1.132,VALIDATE
+Digital Beauty,10,Digital Beauty Market,3903 First St,Canada,Toronto,www.digitalbeauty.fr,0.935,verified,1.084,TRAIN
+UniqueShop050,1,UniqueShop050 Outlet,8062 Main St,UK,Glasgow,www.uniqueshop050.com,0.844,not_verified,2.671,TEST
+Toyota,20,Toyota Outlet,2333 Market St,Australia,Adelaide,www.toyota.org,0.844,verified,1.29,TRAIN
+SmartZone,2,SmartZone Official,4585 Main St,Canada,Montreal,www.smartzone.de,0.975,not_verified,2.225,VALIDATE
+Puma,15,Puma Official,720 Oak Ave,France,Toulouse,www.puma.co.uk,0.85,verified,1.326,TEST
+Adidas,5,Adidas Shop,8516 First St,France,Marseille,www.adidas.co.uk,0.853,not_verified,1.547,TRAIN
+TechSystems,2,TechSystems,6103 First St,France,Marseille,www.techsystems.de,0.8,not_verified,2.179,TRAIN
+Elite Travel,8,Top Elite Travel,1392 Second Ave,Australia,Perth,www.elitetravel.co.uk,0.974,verified,1.216,TEST
+Coca-Cola,30,Coca-Cola Outlet,1566 Second Ave,UK,Glasgow,www.coca-cola.net,0.959,verified,1.177,TEST
+SuperHub,6,SuperHub Outlet,2188 Market St,France,Nice,www.superhub.de,0.925,verified,1.62,TEST
+Spotify,18,Spotify,6462 Main St,Germany,Munich,www.spotify.net,0.95,verified,1.111,TRAIN
+Max Books,3,Max Books Outlet,9698 Second Ave,Canada,Ottawa,,0.0,verified,2.044,TRAIN
+UniqueShop000,1,Original UniqueShop000,1021 First St,France,Toulouse,www.uniqueshop000.de,0.83,not_verified,2.369,TRAIN
+PrimeInc,3,PrimeInc Outlet,2142 Oak Ave,Canada,Montreal,www.primeinc.net,0.892,verified,1.844,TRAIN
+Toyota,20,Toyota,4779 Park Rd,France,Marseille,www.toyota.co.uk,0.87,verified,1.353,TEST
+Adobe,21,Adobe,5162 Hill Rd,Australia,Perth,www.adobe.co.uk,0.819,verified,1.002,TRAIN
+GlobalSystems,3,GlobalSystems Online,6439 Market St,Australia,Melbourne,www.globalsystems.com,0.897,verified,1.638,TRAIN
+ProSystems,1,ProSystems Direct,5346 Park Rd,Australia,Sydney,www.prosystems.org,0.984,not_verified,2.25,VALIDATE
+Dell,18,Original Dell,7418 Park Rd,Australia,Melbourne,,0.0,verified,1.531,TRAIN
+Google,15,Google,3828 Main St,Germany,Stuttgart,www.google.net,0.808,verified,1.332,TRAIN
+Intel,12,Intel Store,3322 Oak Ave,UK,London,www.intel.fr,0.858,verified,1.628,TRAIN
+Zara,23,Zara Shop,,UK,Liverpool,www.zara.de,0.842,verified,1.128,TRAIN
+UltraLab,2,The UltraLab,9580 Main St,Germany,Hamburg,,0.0,not_verified,1.919,TEST
+Pepsi,34,Pepsi Shop,2547 Main St,France,Nice,,0.0,verified,0.903,TRAIN
+Ultra Home,8,Ultra-Home,2694 First St,Australia,Gold Coast,www.ultrahome.co.uk,0.848,not_verified,1.41,TEST
+Digital Books,15,Digital_Books,7636 Park Rd,Australia,Sydney,www.digitalbooks.co.uk,0.982,verified,1.477,TRAIN
+Netflix,26,Netflix Market,6661 Main St,UK,Glasgow,www.netflix.de,0.894,not_verified,0.974,TRAIN
+Coca-Cola,30,Coca-Cola Market,8781 Park Rd,Australia,Sydney,,0.0,not_verified,0.938,TRAIN
+Max Auto,6,Max_Auto,3402 First St,USA,Los Angeles,www.maxauto.org,0.893,verified,1.163,TRAIN
+Netflix,26,Netflix Outlet,5052 First St,Germany,Frankfurt,www.netflix.de,0.952,verified,0.888,TRAIN
+Tech Books,4,Authentic Tech Books,4342 Hill Rd,Germany,Berlin,,0.0,verified,2.415,TRAIN
+Pepsi,34,Pepsi Official,1965 Main St,USA,Chicago,,0.0,not_verified,1.097,TRAIN
+PrimeSolutions,2,PrimeSolutions Direct,2583 Hill Rd,UK,Birmingham,www.primesolutions.fr,0.831,verified,1.62,TRAIN
+HP,15,HP Official,4985 Hill Rd,USA,Phoenix,www.hp.net,0.897,verified,1.579,TEST
+Tech Home,6,Tech Home,9885 Main St,USA,Philadelphia,www.techhome.net,0.886,not_verified,1.344,VALIDATE
+ProCorp,2,ProCorp Store,3523 Hill Rd,Germany,Cologne,www.procorp.fr,0.919,verified,2.012,TRAIN
+Mercedes,17,Mercedes Outlet,5371 Oak Ave,France,Nantes,www.mercedes.fr,1.0,verified,1.3,TEST
+UniqueShop056,1,UniqueShop056,1495 Market St,France,Marseille,,0.0,not_verified,2.719,TRAIN
+Netflix,26,Netflix,4067 Park Rd,Australia,Adelaide,www.netflix.com,0.954,verified,0.814,TRAIN
+Netflix,26,Quality Netflix,6493 Second Ave,USA,Los Angeles,www.netflix.fr,0.88,not_verified,0.893,VALIDATE
+Toyota,20,Toyota Shop,,Australia,Perth,www.toyota.fr,0.966,verified,1.152,TRAIN
+Mercedes,17,The Mercedes,,Germany,Berlin,www.mercedes.de,0.834,verified,1.313,TRAIN
+Adidas,5,Authentic Adidas,803 Market St,UK,Bristol,www.adidas.co.uk,0.806,not_verified,1.841,TRAIN
+Samsung,27,Quality Samsung,4897 Park Rd,France,Marseille,www.samsung.com,0.841,verified,1.07,VALIDATE
+Adobe,21,Adobe,2849 Main St,UK,London,www.adobe.de,0.868,verified,1.145,TEST
+Intel,12,Best Intel,6626 Hill Rd,France,Nice,www.intel.de,0.902,not_verified,1.008,TRAIN
+Sony,19,Sony Official,7409 Second Ave,France,Nantes,www.sony.co.uk,0.923,verified,1.369,TRAIN
+EliteWorks,2,EliteWorks,9014 Oak Ave,UK,Liverpool,,0.0,not_verified,1.983,TRAIN
+Elite Travel,8,Elite Travel,1552 First St,UK,Bristol,,0.0,not_verified,1.604,TRAIN
+Intel,12,Intel Official,1670 Hill Rd,USA,Chicago,www.intel.org,0.982,verified,1.431,TRAIN
+Toyota,20,Toyota Store,2291 Main St,UK,Bristol,www.toyota.de,0.902,not_verified,1.686,TRAIN
+Prime Auto,9,Prime Auto Direct,196 Main St,USA,Los Angeles,,0.0,verified,1.565,TRAIN
+Target,13,Target Official,3642 Oak Ave,USA,Chicago,www.target.com,0.9,verified,1.006,TRAIN
+Adobe,21,Quality Adobe,3247 Hill Rd,Germany,Hamburg,,0.0,verified,0.894,VALIDATE
+EliteZone,2,EliteZone Market,6564 Park Rd,Australia,Perth,www.elitezone.co.uk,0.81,not_verified,1.837,TRAIN
+Spotify,18,Spotify,1377 Second Ave,Germany,Frankfurt,www.spotify.net,0.807,verified,1.0,TRAIN
+Digital Books,15,Digital Books Market,,UK,Liverpool,www.digitalbooks.org,0.91,verified,1.193,TRAIN
+UltraLtd,7,UltraLtd Official,9603 Park Rd,USA,Philadelphia,www.ultraltd.co.uk,0.888,verified,1.055,TRAIN
+Global Food,8,Global Food Outlet,1229 Main St,Australia,Sydney,www.globalfood.com,0.968,verified,1.444,TRAIN
+Coca-Cola,30,Coca-Cola Store,,USA,Phoenix,,0.0,verified,0.967,TRAIN
+HP,15,HP Direct,1057 Oak Ave,Canada,Edmonton,www.hp.de,0.832,verified,1.701,TEST
+MaxHub,5,MaxHub Shop,,France,Nice,www.maxhub.com,0.805,not_verified,1.993,TRAIN
+Starbucks,20,Starbucks Market,7266 Hill Rd,Canada,Montreal,www.starbucks.fr,0.89,verified,1.085,TEST
+PrimeWorks,3,PrimeWorks Official,,Canada,Vancouver,www.primeworks.de,0.847,not_verified,1.56,TRAIN
+Oracle,21,Oracle,5433 Main St,France,Lyon,,0.0,verified,0.919,TRAIN
+Samsung,27,Samsung Shop,700 First St,Germany,Cologne,www.samsung.co.uk,0.81,verified,0.866,TRAIN
+Digital Books,15,Digital Books,830 Oak Ave,France,Paris,www.digitalbooks.org,0.945,verified,1.098,TRAIN
+Samsung,27,Samsung Direct,9403 First St,Canada,Vancouver,www.samsung.co.uk,0.822,verified,0.85,TRAIN
+Ford,24,Ford,6472 First St,Germany,Frankfurt,www.ford.fr,0.922,verified,1.164,TRAIN
+Oracle,21,Oracle Outlet,484 First St,USA,Phoenix,www.oracle.fr,0.856,verified,1.129,TRAIN
+McDonald's,18,McDonald's,,USA,Phoenix,www.mcdonalds.com,0.835,verified,1.062,TRAIN
+Target,13,Target,6991 Oak Ave,Canada,Montreal,,0.0,not_verified,1.198,TRAIN
+UltraLtd,7,UltraLtd Online,5800 Oak Ave,USA,Phoenix,www.ultraltd.com,0.876,not_verified,1.135,VALIDATE
+McDonald's,18,McDonald's Online,3067 Park Rd,Canada,Ottawa,www.mcdonalds.net,0.96,verified,1.011,VALIDATE
+Samsung,27,Samsung,4586 First St,France,Marseille,www.samsung.net,0.878,verified,1.108,TEST
+Nike,31,Nike Direct,2436 Main St,Australia,Perth,www.nike.de,0.95,not_verified,1.164,TRAIN
+Prime Food,6,Prime Food Store,,Germany,Frankfurt,www.primefood.fr,0.825,not_verified,1.711,TRAIN
+SuperLtd,1,SuperLtd Online,4836 First St,Germany,Munich,,0.0,verified,2.284,TRAIN
+Pepsi,34,Pepsi,6751 Second Ave,Canada,Calgary,www.pepsi.com,0.955,verified,0.951,TEST
+ProLab,1,ProLab Store,7849 Main St,Australia,Perth,www.prolab.net,0.847,verified,2.545,VALIDATE
+Spotify,18,Spotify Shop,1438 Park Rd,France,Paris,www.spotify.fr,0.935,verified,1.553,TRAIN
+SmartGroup,3,SmartGroup Shop,6276 Oak Ave,Germany,Berlin,www.smartgroup.net,0.913,verified,1.81,TRAIN
+Starbucks,20,Starbucks,6869 Oak Ave,Canada,Toronto,www.starbucks.co.uk,0.986,verified,1.637,TRAIN
+H&M,13,Premium H&M,8615 Oak Ave,Germany,Stuttgart,www.h&m.de,0.877,verified,1.516,TRAIN
+Sony,19,Sony Outlet,8908 Hill Rd,UK,Bristol,,0.0,verified,1.438,TRAIN
+Intel,12,Intel,320 First St,Australia,Melbourne,,0.813,verified,1.302,TRAIN
+Smart Games,6,Smart Games Official,5884 First St,Canada,Calgary,www.smartgames.co.uk,0.804,verified,1.032,TRAIN
+Nike,31,Nike,8922 Hill Rd,Canada,Ottawa,,0.0,verified,1.182,VALIDATE
+Sony,19,Sony,,France,Paris,,0.0,not_verified,1.282,TEST
+Elite Fashion,3,Elite Fashion Market,7941 Park Rd,Australia,Brisbane,www.elitefashion.de,0.965,verified,1.679,TEST
+PrimeHub,4,PrimeHub,9268 Second Ave,UK,Birmingham,www.primehub.de,0.905,verified,2.448,TRAIN
+Max Auto,6,Premium Max Auto,,USA,Houston,www.maxauto.co.uk,0.955,verified,1.611,TRAIN
+EliteZone,2,EliteZone Official,5270 First St,Australia,Gold Coast,,0.0,verified,2.481,TRAIN
+Nike,31,Nike,,Canada,Toronto,www.nike.net,0.847,verified,1.11,VALIDATE
+HP,15,HP,428 Park Rd,France,Lyon,www.hp.net,0.869,verified,1.502,TRAIN
+Dell,18,Dell Direct,9784 Oak Ave,Germany,Hamburg,www.dell.fr,0.806,verified,1.117,TEST
+Intel,12,Intel Outlet,481 Hill Rd,Canada,Vancouver,www.intel.org,0.992,not_verified,1.734,TRAIN
+Nike,31,Nike,,France,Marseille,www.nike.org,0.934,verified,1.05,TRAIN
+SmartLtd,2,SmartLtd Store,4603 Main St,UK,Bristol,www.smartltd.de,0.987,not_verified,1.569,TRAIN
+Coca-Cola,30,Coca-Cola Market,7729 Second Ave,Australia,Melbourne,www.coca-cola.fr,0.853,verified,0.925,TRAIN
+ProLtd,2,ProLtd Official,5857 Hill Rd,Germany,Stuttgart,www.proltd.org,0.922,not_verified,1.856,TRAIN
+Nike,31,Nike Shop,9569 Oak Ave,UK,Manchester,www.nike.co.uk,0.936,verified,1.039,TRAIN
+Pro Home,5,Pro-Home,2616 Main St,Australia,Melbourne,www.prohome.fr,0.864,not_verified,1.882,TRAIN
+BMW,5,BMW,,Canada,Vancouver,www.bmw.org,0.97,verified,1.697,TRAIN
+SuperHub,6,SuperHub Official,3952 Park Rd,UK,Manchester,,0.0,verified,1.24,VALIDATE
+Microsoft,18,Original Microsoft,8744 Hill Rd,UK,Liverpool,,0.0,verified,1.481,TRAIN
+DigitalSystems,3,DigitalSystems Store,917 Hill Rd,Canada,Vancouver,,0.0,not_verified,1.863,TRAIN
+Pepsi,34,Pepsi Official,,USA,New York,www.pepsi.com,0.989,verified,0.882,VALIDATE
+Starbucks,20,Starbucks,3595 Second Ave,USA,Philadelphia,www.starbucks.de,0.977,verified,1.641,TRAIN
+HP,15,Top HP,6364 Park Rd,Australia,Perth,,0.0,verified,1.088,TRAIN
+UltraInc,2,UltraInc Outlet,2847 Oak Ave,France,Paris,www.ultrainc.com,0.948,not_verified,1.843,TRAIN
+Digital Books,15,Digital Books Outlet,3876 Second Ave,France,Paris,www.digitalbooks.de,0.855,verified,1.02,TRAIN
+TechLtd,3,TechLtd Shop,5211 Hill Rd,Germany,Hamburg,www.techltd.de,0.856,not_verified,1.816,TRAIN
+DigitalLtd,3,DigitalLtd Market,5879 Second Ave,France,Marseille,www.digitalltd.co.uk,0.993,verified,2.11,TEST
+Elite Health,5,Elite Health Shop,,Germany,Frankfurt,www.elitehealth.net,0.802,verified,1.887,TRAIN
+Prime Music,6,Prime Music Market,5762 Second Ave,Canada,Calgary,,0.0,verified,1.118,TRAIN
+Toyota,20,Original Toyota,9235 Oak Ave,UK,Liverpool,www.toyota.org,0.943,verified,1.072,TRAIN
+SmartGroup,3,SmartGroup Direct,9226 Oak Ave,Canada,Calgary,www.smartgroup.com,0.941,not_verified,1.506,TRAIN
+SuperInc,2,Quality SuperInc,8065 Second Ave,UK,Liverpool,www.superinc.org,0.925,verified,1.623,TEST
+UltraLtd,7,UltraLtd Market,5064 Oak Ave,UK,London,www.ultraltd.de,0.998,verified,1.741,VALIDATE
+Puma,15,Puma,8036 Main St,France,Toulouse,www.puma.com,0.862,verified,1.773,TEST
+Pepsi,34,Pepsi Outlet,1479 Main St,Germany,Frankfurt,,0.0,verified,1.097,TRAIN
+GlobalSolutions,2,Authentic GlobalSolutions,3812 Second Ave,USA,Phoenix,,0.0,not_verified,2.384,TEST
+Apple,26,Apple Outlet,3585 Main St,Canada,Calgary,www.apple.com,0.868,verified,1.014,TRAIN
+TechGroup,1,TechGroup Store,8626 First St,Australia,Melbourne,www.techgroup.fr,0.816,verified,2.166,TRAIN
+Elite Health,5,Top Elite Health,,Germany,Berlin,,0.0,not_verified,1.828,TRAIN
+Samsung,27,Samsung Market,12 Park Rd,Australia,Adelaide,www.samsung.de,0.889,verified,1.104,TRAIN
+Global Home,4,Global Home Direct,3301 Hill Rd,Germany,Hamburg,www.globalhome.org,0.852,verified,2.452,VALIDATE
+Max Books,3,Max Books Store,2138 Park Rd,Australia,Sydney,www.maxbooks.com,0.869,not_verified,2.097,TEST
+Global Auto,6,Global Auto Store,2908 Hill Rd,USA,Philadelphia,www.globalauto.org,0.967,not_verified,1.04,VALIDATE
+Starbucks,20,Starbucks,5302 Main St,UK,Glasgow,www.starbucks.com,0.987,verified,1.372,TRAIN
+Walmart,5,Walmart Outlet,360 Oak Ave,France,Paris,www.walmart.net,0.837,verified,2.244,TRAIN
+Amazon,13,Amazon Shop,9612 Market St,Canada,Montreal,,0.0,not_verified,1.339,TRAIN
+UniqueShop087,1,UniqueShop087 Shop,,France,Marseille,www.uniqueshop087.co.uk,0.875,verified,2.962,TEST
+Coca-Cola,30,Coca-Cola Direct,2321 Hill Rd,UK,Liverpool,www.coca-cola.fr,0.986,verified,0.996,TRAIN
+Smart Beauty,6,Smart Beauty Market,1818 Hill Rd,Canada,Vancouver,www.smartbeauty.de,0.812,verified,1.728,VALIDATE
+Nike,31,Nike Store,8623 Hill Rd,Canada,Calgary,www.nike.co.uk,0.818,verified,1.105,TRAIN
+GlobalSystems,3,Original GlobalSystems,5979 Main St,France,Marseille,www.globalsystems.fr,0.833,not_verified,1.842,VALIDATE
+Nike,31,Nike Outlet,6121 Market St,Canada,Vancouver,www.nike.org,0.919,verified,1.139,VALIDATE
+SmartLab,3,SmartLab Market,,Germany,Cologne,www.smartlab.fr,0.83,verified,2.294,TEST
+UniqueShop005,1,UniqueShop005 Store,,UK,Glasgow,,0.994,not_verified,2.623,TRAIN
+ProLtd,2,ProLtd Market,6482 Second Ave,Australia,Brisbane,,0.0,not_verified,2.305,TRAIN
+Zara,23,Zara,,Canada,Calgary,www.zara.co.uk,0.889,verified,0.958,TRAIN
+Sony,19,Sony Market,,Canada,Calgary,www.sony.co.uk,0.9,verified,1.322,TRAIN
+MaxHub,5,MaxHub Shop,,UK,Liverpool,,0.0,not_verified,1.95,TEST
+Global Auto,6,Global Auto Online,1656 Park Rd,UK,Liverpool,www.globalauto.co.uk,0.849,not_verified,1.286,TEST
+UltraLtd,7,UltraLtd Market,4945 Park Rd,Australia,Melbourne,www.ultraltd.de,0.894,verified,1.149,TRAIN
+Microsoft,18,Microsoft,2236 Oak Ave,USA,Philadelphia,www.microsoft.net,0.932,verified,1.437,TRAIN
+Toyota,20,Toyota Market,7158 Hill Rd,Canada,Vancouver,www.toyota.fr,0.95,verified,1.234,TRAIN
+Ultra Home,8,Ultra Home Official,7983 Market St,France,Toulouse,www.ultrahome.net,0.951,not_verified,1.386,TRAIN
+Walmart,5,Walmart,5199 Oak Ave,Germany,Munich,www.walmart.co.uk,0.916,verified,2.467,TEST
+DigitalCorp,1,DigitalCorp Online,9208 Market St,UK,Bristol,www.digitalcorp.net,0.981,not_verified,2.957,VALIDATE
+Dell,18,Dell Official,5847 Oak Ave,UK,Glasgow,,0.0,verified,1.38,VALIDATE
+Target,13,Target,9650 Hill Rd,USA,Los Angeles,www.target.net,0.963,not_verified,1.42,VALIDATE
+Adobe,21,Adobe Outlet,,Germany,Cologne,www.adobe.de,0.951,verified,0.901,TRAIN
+Target,13,Target,2873 First St,UK,Bristol,www.target.co.uk,0.811,verified,1.099,TRAIN
+Dell,18,Dell Store,5027 Market St,France,Nice,www.dell.org,0.801,verified,1.001,TRAIN
+McDonald's,18,McDonald's,4826 Oak Ave,Australia,Brisbane,www.mcdonalds.co.uk,0.842,verified,1.782,TRAIN
+Target,13,Target,,Germany,Hamburg,,0.0,verified,1.531,TRAIN
+GlobalHub,2,GlobalHub Direct,,Canada,Ottawa,www.globalhub.net,0.933,not_verified,2.051,TRAIN
+Pepsi,34,Pepsi Store,2912 Market St,France,Paris,www.pepsi.org,0.882,verified,1.091,TRAIN
+Digital Books,15,Digital Books,30 Market St,Germany,Berlin,www.digitalbooks.fr,0.88,verified,1.585,TRAIN
+PrimeCorp,2,PrimeCorp Store,9386 First St,Australia,Melbourne,,0.0,not_verified,2.475,TRAIN
+Smart Home,9,Smart Home Market,9298 Main St,USA,Los Angeles,,0.0,not_verified,1.273,TRAIN
+Smart Games,6,Smart Games,2984 Second Ave,Canada,Calgary,www.smartgames.net,0.977,verified,1.055,TRAIN
+Ultra Home,8,Ultra Home Official,5214 Hill Rd,Australia,Sydney,www.ultrahome.net,0.979,not_verified,1.096,TRAIN
+Dell,18,Quality Dell,3620 Market St,Germany,Stuttgart,www.dell.com,0.982,verified,1.653,TEST
+Samsung,27,Samsung Shop,9266 Main St,Canada,Montreal,www.samsung.com,0.863,verified,0.957,TRAIN
+Target,13,Target,8130 Oak Ave,Canada,Montreal,www.target.fr,0.938,verified,1.684,TRAIN
+Dell,18,Dell Online,5426 Market St,France,Nice,www.dell.com,0.854,verified,1.696,TRAIN
+Ford,24,Ford Direct,1275 Oak Ave,Canada,Montreal,www.ford.net,0.838,verified,1.111,TEST
+Intel,12,Intel Online,,USA,Houston,www.intel.fr,0.837,not_verified,1.145,TRAIN
+Global Fashion,7,Global Fashion Market,5683 Park Rd,USA,Chicago,,0.0,verified,1.132,TRAIN
+Samsung,27,Samsung Online,2751 Market St,Australia,Adelaide,www.samsung.co.uk,0.868,verified,1.014,TEST
+Digital Music,3,Digital Music Online,1454 Hill Rd,UK,Liverpool,,0.0,not_verified,1.696,TEST
+Digital Beauty,10,Digital Beauty Store,5501 First St,France,Nantes,www.digitalbeauty.fr,0.886,verified,1.033,TRAIN
+Pepsi,34,Pepsi Shop,187 Park Rd,Australia,Adelaide,www.pepsi.co.uk,0.966,verified,1.024,TRAIN
+Prime Auto,9,Prime Auto Direct,3436 Oak Ave,UK,Birmingham,,0.0,not_verified,1.534,TRAIN
+Ultra Music,2,Ultra Music Store,1111 Park Rd,Canada,Montreal,www.ultramusic.net,0.824,verified,2.453,TRAIN
+Global Auto,6,Global Auto Shop,4206 Hill Rd,Australia,Adelaide,www.globalauto.com,0.947,not_verified,1.744,TRAIN
+Smart Home,9,Smart Home Online,1771 Market St,Germany,Stuttgart,www.smarthome.net,0.906,verified,1.207,TRAIN
+Walmart,5,Walmart Shop,21 Main St,Germany,Berlin,www.walmart.fr,0.858,verified,2.226,TRAIN
+Global Food,8,Global_Food,6324 First St,Germany,Frankfurt,,0.0,verified,1.242,TRAIN
+Sony,19,Sony Outlet,6876 Oak Ave,Canada,Calgary,www.sony.co.uk,0.899,verified,1.452,TRAIN
+Amazon,13,Authentic Amazon,6784 First St,Australia,Melbourne,www.amazon.co.uk,0.86,verified,1.133,TRAIN
+Elite Music,12,Elite Music,6205 Park Rd,UK,Bristol,www.elitemusic.fr,0.919,verified,1.494,TRAIN
+Pro Health,8,Pro Health,8947 First St,Canada,Calgary,www.prohealth.de,0.887,not_verified,1.582,VALIDATE
+GlobalSystems,3,GlobalSystems Official,1662 Hill Rd,Australia,Adelaide,www.globalsystems.co.uk,0.833,not_verified,2.262,TEST
+Super Auto,6,Quality Super Auto,7856 Hill Rd,France,Toulouse,www.superauto.de,0.823,verified,1.154,TRAIN
+Nike,31,Nike Online,9471 Market St,USA,New York,www.nike.net,0.909,verified,1.049,TEST
+DigitalWorks,5,DigitalWorks Online,3696 Oak Ave,UK,Birmingham,www.digitalworks.co.uk,0.98,verified,1.99,VALIDATE
+Coca-Cola,30,Coca-Cola Outlet,7394 Main St,UK,Birmingham,www.coca-cola.de,0.869,verified,0.934,TRAIN
+EliteSystems,2,EliteSystems Outlet,548 Park Rd,Canada,Edmonton,www.elitesystems.co.uk,0.947,verified,1.698,TEST
+Smart Home,9,Smart Home Market,329 Park Rd,Canada,Edmonton,www.smarthome.de,0.932,not_verified,1.149,TRAIN
+Coca-Cola,30,Coca-Cola Direct,4279 Main St,Canada,Ottawa,www.coca-cola.co.uk,0.986,verified,0.974,TRAIN
+Zara,23,Zara,1216 Park Rd,Australia,Perth,www.zara.co.uk,0.964,verified,0.975,TRAIN
+Adidas,5,Adidas Official,2788 First St,Canada,Calgary,www.adidas.org,0.913,verified,2.058,TRAIN
+Toyota,20,Toyota Outlet,2637 Market St,Canada,Edmonton,,0.0,verified,1.746,TRAIN
+Starbucks,20,Starbucks Store,1229 Second Ave,France,Nice,www.starbucks.net,0.931,not_verified,1.402,TRAIN
+Global Music,6,Global Music,1526 Park Rd,Germany,Cologne,,0.0,verified,1.59,VALIDATE
+Netflix,26,Netflix Online,9733 Second Ave,UK,Manchester,www.netflix.net,0.98,verified,0.99,TRAIN
+UniqueShop043,1,UniqueShop043,7910 Market St,USA,Los Angeles,www.uniqueshop043.co.uk,0.88,verified,2.921,TEST
+Digital Fashion,8,Digital Fashion Outlet,508 First St,Australia,Melbourne,,0.0,verified,1.442,VALIDATE
+Mercedes,17,Mercedes Outlet,2704 Second Ave,Australia,Brisbane,,0.0,not_verified,1.388,VALIDATE
+UniqueShop032,1,The UniqueShop032,7114 Oak Ave,Australia,Gold Coast,,0.0,verified,2.972,TRAIN
+Ford,24,Ford Store,878 Main St,Australia,Sydney,www.ford.de,0.865,verified,1.046,VALIDATE
+Pepsi,34,Pepsi,5425 Oak Ave,UK,Manchester,www.pepsi.com,0.802,verified,0.993,VALIDATE
+Max Auto,6,Quality Max Auto,3113 First St,Germany,Berlin,www.maxauto.de,0.965,verified,1.06,TRAIN
+HP,15,HP,9079 Market St,USA,New York,www.hp.co.uk,0.96,verified,1.67,TRAIN
+UniqueShop037,1,UniqueShop037,8850 Park Rd,Germany,Frankfurt,www.uniqueshop037.fr,0.821,verified,2.195,TRAIN
+UltraSolutions,3,Original UltraSolutions,4613 Park Rd,USA,New York,www.ultrasolutions.net,0.915,verified,2.269,VALIDATE
+Digital Fashion,8,Digital Fashion,,Germany,Frankfurt,www.digitalfashion.fr,0.893,verified,1.461,TRAIN
+Pepsi,34,Pepsi Online,3892 Main St,USA,New York,www.pepsi.de,0.824,verified,0.815,TEST
+EliteSolutions,3,EliteSolutions,814 First St,Canada,Ottawa,www.elitesolutions.org,0.996,verified,2.334,TEST
+EliteSolutions,3,EliteSolutions Outlet,9368 Second Ave,UK,London,www.elitesolutions.co.uk,0.843,verified,1.545,TRAIN
+Smart Games,6,Smart Games Outlet,8044 Oak Ave,Australia,Perth,www.smartgames.de,0.813,verified,1.675,TRAIN
+Oracle,21,Authentic Oracle,894 Park Rd,Canada,Vancouver,www.oracle.de,0.919,verified,0.969,TRAIN
+Amazon,13,Amazon,63 First St,UK,Bristol,www.amazon.org,0.948,verified,1.359,VALIDATE
+Smart Home,9,Smart Home Shop,1436 Park Rd,Canada,Calgary,www.smarthome.com,0.806,verified,1.457,TRAIN
+Elite Home,4,Elite Home Official,9834 First St,Australia,Melbourne,www.elitehome.com,0.932,verified,1.816,TRAIN
+ProInc,3,ProInc Outlet,3272 Main St,UK,Liverpool,www.proinc.de,0.906,verified,1.867,TRAIN
+SuperWorks,2,SuperWorks Direct,422 Oak Ave,UK,London,www.superworks.co.uk,0.821,verified,2.267,TRAIN
+SmartHub,2,SmartHub Direct,2799 Market St,USA,Philadelphia,www.smarthub.fr,0.835,not_verified,2.47,VALIDATE
+UniqueShop092,1,UniqueShop092 Outlet,4782 Main St,Canada,Montreal,www.uniqueshop092.org,0.914,not_verified,2.601,TRAIN
+UltraZone,1,UltraZone Official,7759 Hill Rd,Germany,Cologne,,0.0,not_verified,2.285,TRAIN
+Digital Beauty,10,Digital Beauty Shop,1893 Park Rd,France,Marseille,www.digitalbeauty.com,0.859,verified,1.365,TRAIN
+Nike,31,Nike Outlet,,France,Toulouse,www.nike.de,0.988,verified,1.103,TRAIN
+Puma,15,Puma Online,8014 Market St,UK,Bristol,www.puma.co.uk,0.964,verified,1.254,TRAIN
+Dell,18,Dell Official,4342 Main St,France,Lyon,,0.0,not_verified,1.045,TRAIN
+Digital Travel,12,Digital Travel Official,8915 First St,France,Nice,,0.0,verified,1.73,TRAIN
+Starbucks,20,Starbucks,3030 Park Rd,Germany,Stuttgart,www.starbucks.fr,0.997,verified,1.437,VALIDATE
+UniqueShop048,1,UniqueShop048 Shop,,Australia,Gold Coast,www.uniqueshop048.com,0.852,verified,2.343,VALIDATE
+Nike,31,Original Nike,6250 Park Rd,France,Toulouse,www.nike.net,0.994,verified,1.024,TRAIN
+HP,15,Original HP,3057 First St,France,Nantes,www.hp.fr,0.886,verified,1.08,VALIDATE
+Coca-Cola,30,Coca-Cola Online,732 Park Rd,Australia,Adelaide,www.coca-cola.fr,0.87,verified,1.185,TEST
+Puma,15,Puma,,Canada,Montreal,www.puma.de,0.81,verified,1.483,TEST
+Digital Music,3,Digital Music Market,7205 First St,Germany,Frankfurt,www.digitalmusic.org,0.811,verified,2.183,TRAIN
+Mercedes,17,Mercedes,4316 Oak Ave,UK,London,www.mercedes.co.uk,0.938,not_verified,1.461,TRAIN
+PrimeLtd,1,PrimeLtd Direct,4401 Second Ave,Germany,Hamburg,www.primeltd.de,0.892,verified,2.582,TEST
+Spotify,18,Spotify,1010 Oak Ave,Canada,Calgary,,0.0,not_verified,1.325,TRAIN
+MaxSystems,1,Original MaxSystems,1585 Main St,Canada,Vancouver,www.maxsystems.com,0.845,not_verified,2.649,TRAIN
+Oracle,21,Oracle,5633 Hill Rd,Canada,Toronto,www.oracle.de,0.923,verified,1.049,TRAIN
+Mercedes,17,Mercedes Direct,8872 First St,USA,Phoenix,www.mercedes.de,0.851,verified,1.248,TEST
+Pro Home,5,Pro Home Online,9663 Oak Ave,UK,Birmingham,www.prohome.com,0.916,verified,2.409,TRAIN
+DigitalInc,2,DigitalInc,9071 Main St,Canada,Calgary,,0.0,not_verified,2.176,TEST
+Prime Fashion,6,Best Prime Fashion,6343 Hill Rd,France,Paris,,0.0,verified,1.147,TRAIN
+Toyota,20,Premium Toyota,,Australia,Perth,www.toyota.net,0.872,verified,1.379,TRAIN
+UniqueShop013,1,UniqueShop013 Online,8562 First St,Germany,Hamburg,,0.0,verified,2.617,TRAIN
+TechWorks,1,TechWorks Shop,,USA,Houston,www.techworks.co.uk,0.965,verified,2.326,TRAIN
+Tech Home,6,Tech_Home,8774 Market St,Canada,Ottawa,www.techhome.fr,0.964,verified,1.118,TRAIN
+Elite Home,4,Elite Home Market,7780 Second Ave,UK,London,,0.0,not_verified,1.709,TRAIN
+Samsung,27,Samsung Outlet,3861 First St,France,Marseille,www.samsung.fr,0.895,verified,0.881,VALIDATE
+Oracle,21,Authentic Oracle,4897 Main St,UK,Glasgow,www.oracle.fr,0.87,verified,0.97,TRAIN
+UniqueShop003,1,Best UniqueShop003,6469 Hill Rd,France,Toulouse,www.uniqueshop003.fr,0.873,verified,2.021,TRAIN
+Ford,24,Ford Official,569 Second Ave,Germany,Munich,www.ford.com,0.961,verified,0.978,VALIDATE
+MaxLab,2,MaxLab Shop,9359 Second Ave,UK,Bristol,www.maxlab.fr,0.866,not_verified,2.385,TRAIN
+Digital Travel,12,Digital Travel Market,9364 Market St,Australia,Gold Coast,,0.0,verified,1.431,TRAIN
+Apple,26,Apple,2416 Main St,Germany,Cologne,www.apple.fr,0.842,not_verified,0.955,TEST
+UniqueShop030,1,UniqueShop030 Online,7358 Oak Ave,UK,Birmingham,www.uniqueshop030.de,0.817,not_verified,2.134,TRAIN
+SmartSolutions,1,Quality SmartSolutions,2739 Oak Ave,USA,Houston,www.smartsolutions.de,0.893,not_verified,2.751,TRAIN
+MaxHub,5,MaxHub Shop,3158 Oak Ave,Australia,Melbourne,,0.896,not_verified,2.177,TRAIN
+Samsung,27,Samsung,700 First St,France,Nice,www.samsung.de,0.968,verified,1.175,VALIDATE
+Apple,26,Apple Outlet,1284 Market St,Australia,Gold Coast,www.apple.com,0.844,verified,0.933,VALIDATE
+Zara,23,Zara,7134 Oak Ave,Canada,Montreal,www.zara.org,0.876,verified,1.106,TRAIN
+GlobalSolutions,2,GlobalSolutions Outlet,2423 Hill Rd,Australia,Gold Coast,www.globalsolutions.de,0.962,not_verified,1.705,VALIDATE
+Adobe,21,Adobe Direct,9750 Park Rd,France,Marseille,www.adobe.com,0.965,verified,1.095,TRAIN
+Elite Music,12,Elite_Music,,Germany,Munich,www.elitemusic.co.uk,0.877,verified,1.31,TRAIN
+Mercedes,17,Mercedes Store,5239 Market St,USA,Los Angeles,www.mercedes.co.uk,0.892,verified,1.244,VALIDATE
+SmartLab,3,SmartLab,1098 Main St,UK,Birmingham,,0.0,not_verified,2.143,TRAIN
+UniqueShop021,1,UniqueShop021 Direct,6359 Second Ave,USA,Philadelphia,www.uniqueshop021.de,0.861,not_verified,2.977,VALIDATE
+Samsung,27,Samsung Store,,Germany,Frankfurt,www.samsung.co.uk,0.987,verified,1.121,TRAIN
+Tech Books,4,Tech Books Outlet,6511 Second Ave,Germany,Hamburg,www.techbooks.de,0.824,verified,2.37,VALIDATE
+Tech Food,4,The Tech Food,5344 Hill Rd,Australia,Adelaide,www.techfood.fr,0.987,verified,2.448,TRAIN
+Apple,26,Apple Official,4526 Second Ave,Germany,Munich,www.apple.org,0.937,verified,0.93,TEST
+Pro Home,5,Pro-Home,,Canada,Toronto,www.prohome.co.uk,0.906,not_verified,1.894,VALIDATE
+Digital Fashion,8,Digital Fashion,7507 Hill Rd,UK,London,www.digitalfashion.org,0.807,verified,1.356,VALIDATE
+GlobalInc,2,Authentic GlobalInc,203 Hill Rd,France,Paris,www.globalinc.org,0.895,not_verified,1.728,TRAIN
+Digital Books,15,The Digital Books,9627 Second Ave,UK,London,,0.0,verified,1.24,TRAIN
+Toyota,20,Toyota Outlet,6875 Main St,Canada,Montreal,www.toyota.org,0.882,verified,1.134,TEST
+Netflix,26,Authentic Netflix,6791 Oak Ave,UK,Bristol,www.netflix.net,0.832,verified,0.96,TRAIN
+Prime Music,6,Prime Music Outlet,2429 Second Ave,Germany,Stuttgart,,0.0,verified,1.467,TRAIN
+McDonald's,18,McDonald's,9633 Second Ave,USA,Los Angeles,www.mcdonalds.com,0.931,verified,1.121,TEST
+DigitalHub,2,DigitalHub Outlet,1642 Main St,USA,Los Angeles,www.digitalhub.fr,0.994,verified,2.165,VALIDATE
+UniqueShop094,1,UniqueShop094 Direct,9220 Hill Rd,USA,Houston,www.uniqueshop094.de,0.912,verified,2.701,TRAIN
+Pepsi,34,Pepsi Official,,UK,Birmingham,,0.0,verified,1.002,VALIDATE
+Ford,24,Ford,,Germany,Hamburg,www.ford.fr,0.943,verified,1.077,TRAIN
+Global Music,6,Global Music Outlet,1655 Hill Rd,Germany,Hamburg,www.globalmusic.org,0.814,verified,1.031,TRAIN
+Pro Health,8,Pro Health Outlet,4688 Hill Rd,Germany,Stuttgart,www.prohealth.fr,0.884,verified,1.783,TEST
+UniqueShop063,1,UniqueShop063,8776 Park Rd,USA,Chicago,www.uniqueshop063.de,0.823,verified,2.502,TRAIN
+UniqueShop073,1,UniqueShop073 Store,6733 Park Rd,USA,Los Angeles,www.uniqueshop073.org,0.923,not_verified,2.717,TRAIN
+Pro Health,8,Pro Health Market,6276 Market St,USA,Chicago,,0.0,not_verified,1.638,VALIDATE
+Global Fashion,7,Best Global Fashion,7956 Second Ave,Germany,Berlin,www.globalfashion.com,0.988,not_verified,1.366,TRAIN
+PrimeCorp,2,PrimeCorp Outlet,9978 First St,France,Toulouse,www.primecorp.fr,0.932,verified,1.886,TRAIN
+HP,15,HP Online,614 Oak Ave,UK,Manchester,,0.815,not_verified,1.558,TRAIN
+Pro Fashion,6,Pro Fashion Outlet,4513 First St,Canada,Calgary,www.profashion.de,0.871,verified,1.69,VALIDATE
+Zara,23,Zara Direct,,USA,New York,www.zara.net,0.91,verified,0.828,TRAIN
+Smart Home,9,Smart-Home,2357 Second Ave,Australia,Melbourne,www.smarthome.de,0.881,verified,1.334,TRAIN
+Max Beauty,3,Max Beauty Online,9973 Market St,Germany,Cologne,www.maxbeauty.com,0.967,not_verified,1.704,TRAIN
+Elite Music,12,Elite Music Market,6582 Main St,UK,Bristol,www.elitemusic.fr,0.963,verified,1.446,TRAIN
+GlobalHub,2,GlobalHub,6485 Park Rd,USA,,www.globalhub.org,0.922,verified,2.472,TRAIN
+Google,15,Google Direct,3893 Main St,Germany,Stuttgart,www.google.fr,0.875,verified,1.233,TRAIN
+UniqueShop017,1,UniqueShop017 Official,7786 Park Rd,USA,Phoenix,www.uniqueshop017.de,0.851,verified,2.858,VALIDATE
+DigitalHub,2,DigitalHub Official,6103 Main St,Australia,Melbourne,www.digitalhub.com,0.821,verified,1.693,TRAIN
+Ford,24,Ford Direct,5536 Hill Rd,Germany,Cologne,www.ford.org,0.871,verified,0.919,VALIDATE
+Coca-Cola,30,Coca-Cola,4966 Park Rd,Australia,Brisbane,www.coca-cola.co.uk,0.883,verified,0.989,VALIDATE
+Spotify,18,Quality Spotify,4594 Hill Rd,Canada,Vancouver,,0.0,verified,1.133,TRAIN
+Netflix,26,Netflix Market,8055 Hill Rd,Australia,Gold Coast,www.netflix.com,0.935,verified,1.176,TRAIN
+Pepsi,34,Pepsi,,USA,Philadelphia,www.pepsi.net,0.932,verified,1.195,TRAIN
+Spotify,18,Spotify Market,3735 Oak Ave,France,Nice,www.spotify.de,0.814,verified,1.143,TRAIN
+Pepsi,34,Pepsi,4924 Market St,USA,Chicago,www.pepsi.com,0.879,verified,0.984,TRAIN
+Elite Travel,8,Elite Travel Outlet,7260 Hill Rd,Germany,Stuttgart,www.elitetravel.org,0.836,verified,1.787,VALIDATE
+Sony,19,Sony Direct,5258 Park Rd,Canada,Vancouver,www.sony.org,0.831,verified,1.077,TEST
+TechLtd,3,TechLtd Direct,6829 Second Ave,Canada,Toronto,www.techltd.net,0.965,not_verified,1.782,TRAIN
+Spotify,18,Spotify Online,1463 Oak Ave,Australia,Melbourne,www.spotify.de,0.808,verified,1.031,TRAIN
+Oracle,21,Oracle,,USA,Los Angeles,www.oracle.org,0.884,verified,1.11,TRAIN
+Spotify,18,Top Spotify,,Australia,Perth,www.spotify.org,0.834,verified,1.374,TEST
+Prime Music,6,Prime Music Outlet,7238 Oak Ave,Canada,Toronto,,0.0,not_verified,1.343,TRAIN
+Samsung,27,Samsung Shop,6672 Market St,UK,Birmingham,www.samsung.org,0.976,verified,1.113,VALIDATE
+Prime Auto,9,Prime Auto,7938 Hill Rd,France,Paris,www.primeauto.com,0.911,verified,1.61,TRAIN
+Global Fashion,7,Premium Global Fashion,8463 Hill Rd,Germany,Munich,www.globalfashion.fr,0.846,not_verified,1.346,TRAIN
+MaxLab,2,MaxLab Online,6127 Hill Rd,USA,New York,,0.0,not_verified,1.977,TRAIN
+Pepsi,34,Premium Pepsi,921 Second Ave,France,Nantes,www.pepsi.com,0.9,verified,1.155,TRAIN
+UniqueShop020,1,UniqueShop020 Shop,2605 Main St,Germany,Stuttgart,,0.0,not_verified,2.336,TRAIN
+Global Home,4,Global Home Outlet,5098 Market St,France,Lyon,www.globalhome.de,0.946,verified,2.427,TEST
+Elite Food,3,Elite Food Direct,8304 First St,Canada,Toronto,www.elitefood.net,0.992,not_verified,2.009,TEST
+GlobalInc,2,GlobalInc Outlet,2223 Hill Rd,UK,Manchester,www.globalinc.de,0.844,verified,1.779,TRAIN
+Tech Food,4,Tech Food Online,8590 Second Ave,Germany,Berlin,www.techfood.fr,0.977,not_verified,1.643,TRAIN
+GlobalWorks,2,GlobalWorks Outlet,475 Oak Ave,Australia,Adelaide,www.globalworks.net,0.987,verified,1.783,TRAIN
+Global Auto,6,Quality Global Auto,3159 Hill Rd,Canada,Edmonton,www.globalauto.fr,0.983,verified,1.324,TRAIN
+Netflix,26,Netflix Direct,3289 Hill Rd,USA,New York,www.netflix.co.uk,0.927,not_verified,0.822,TEST
+EliteSolutions,3,EliteSolutions Official,,Canada,Edmonton,www.elitesolutions.org,0.926,verified,1.583,TRAIN
+Oracle,21,Oracle Market,945 Oak Ave,UK,Bristol,,0.0,verified,0.976,VALIDATE
+Spotify,18,Spotify Market,542 First St,France,Paris,www.spotify.net,0.881,verified,1.207,TEST
+Zara,23,Zara Market,829 Park Rd,UK,Glasgow,www.zara.org,0.95,verified,0.835,TRAIN
+Prime Auto,9,Best Prime Auto,3263 Park Rd,UK,Birmingham,www.primeauto.fr,0.906,verified,1.773,TRAIN
+Apple,26,Apple Direct,6036 Hill Rd,France,,,0.0,not_verified,0.934,TRAIN
+Prime Auto,9,Prime Auto Shop,7606 Second Ave,Canada,Calgary,www.primeauto.net,0.935,verified,1.728,TRAIN
+TechLab,1,TechLab,6504 Market St,Australia,Melbourne,www.techlab.co.uk,0.886,verified,2.811,TRAIN
+Elite Music,12,Elite Music Market,2030 Market St,USA,Philadelphia,www.elitemusic.net,0.946,not_verified,1.073,TRAIN
+Digital Books,15,Digital Books Shop,501 Oak Ave,Germany,Hamburg,,0.0,verified,1.769,TRAIN
+Apple,26,Top Apple,6103 First St,Australia,Melbourne,www.apple.de,0.965,verified,0.806,TRAIN
+Starbucks,20,Original Starbucks,9733 First St,Canada,Toronto,,0.0,verified,1.36,VALIDATE
+Microsoft,18,Microsoft,,Germany,,www.microsoft.com,0.829,verified,1.587,TRAIN
+Digital Beauty,10,Digital Beauty,,Germany,Frankfurt,www.digitalbeauty.org,0.967,not_verified,1.23,TRAIN
+McDonald's,18,McDonald's Store,2910 Hill Rd,Canada,Ottawa,www.mcdonalds.com,0.908,verified,1.427,TRAIN
+Spotify,18,Spotify,7776 Second Ave,Australia,Perth,www.spotify.net,0.969,verified,1.135,VALIDATE
+MaxInc,3,MaxInc,9034 Park Rd,UK,Liverpool,www.maxinc.de,0.886,not_verified,2.353,TRAIN
+Target,13,Quality Target,5641 Oak Ave,UK,Liverpool,www.target.net,0.876,verified,1.483,VALIDATE
+Samsung,27,Samsung Shop,4238 Market St,Canada,Montreal,www.samsung.co.uk,0.983,verified,1.018,TRAIN
+Ultra Home,8,Ultra Home Outlet,1481 Park Rd,Australia,Perth,www.ultrahome.co.uk,0.85,verified,1.412,TRAIN
+Netflix,26,Netflix Store,450 First St,Canada,Ottawa,www.netflix.co.uk,0.969,not_verified,1.045,TRAIN
+UltraInc,2,UltraInc Shop,814 Oak Ave,France,Lyon,www.ultrainc.net,0.897,verified,2.272,TRAIN
+Samsung,27,Samsung,9376 Hill Rd,USA,Phoenix,,0.0,verified,0.954,TEST
+Dell,18,Dell Outlet,,UK,Glasgow,www.dell.fr,0.903,verified,1.345,TRAIN
+UniqueShop071,1,UniqueShop071,3512 Hill Rd,Canada,Montreal,,0.0,not_verified,2.484,TRAIN
+Super Auto,6,Super Auto Market,,France,Marseille,www.superauto.co.uk,0.862,not_verified,1.461,TRAIN
+Oracle,21,Oracle Direct,,Germany,Berlin,www.oracle.fr,0.915,verified,1.124,TRAIN
+Netflix,26,Netflix,3627 Market St,Australia,,www.netflix.fr,0.865,verified,0.89,TRAIN
+Smart Travel,3,Smart Travel Market,3689 Market St,Germany,Stuttgart,www.smarttravel.net,0.808,verified,1.761,TRAIN
+Coca-Cola,30,Coca-Cola Market,3388 Park Rd,UK,London,www.coca-cola.net,0.854,verified,1.059,TRAIN
+Samsung,27,Samsung,6710 Second Ave,France,Marseille,www.samsung.de,0.801,verified,0.978,VALIDATE
+Spotify,18,Spotify,329 Hill Rd,France,Lyon,www.spotify.fr,0.996,not_verified,1.457,TRAIN
+Global Food,8,Global Food Online,146 First St,Canada,Edmonton,www.globalfood.org,0.993,not_verified,1.112,TRAIN
+Global Fashion,7,Global Fashion,,USA,Philadelphia,,0.0,not_verified,1.694,TRAIN
+Ultra Home,8,Ultra Home,2168 Market St,France,Toulouse,www.ultrahome.com,0.879,verified,1.574,TRAIN
+Apple,26,Apple Official,2838 Second Ave,UK,Liverpool,www.apple.fr,0.946,verified,0.837,VALIDATE
+Samsung,27,Samsung Official,139 Oak Ave,Australia,Perth,www.samsung.org,0.869,verified,0.958,TRAIN
+SmartZone,2,SmartZone,4136 Second Ave,France,Lyon,www.smartzone.com,0.934,not_verified,1.744,TRAIN
+Spotify,18,Top Spotify,,France,Marseille,www.spotify.com,0.961,not_verified,1.767,TRAIN
+Puma,15,Puma Online,5005 Market St,Canada,Calgary,,0.0,verified,1.278,VALIDATE
+McDonald's,18,McDonald's Shop,,Australia,Brisbane,www.mcdonalds.net,0.989,verified,1.773,VALIDATE
+Global Music,6,Global Music Store,6169 Hill Rd,USA,New York,www.globalmusic.co.uk,0.88,verified,1.257,TRAIN
+Apple,26,Apple Store,5714 First St,France,Nantes,www.apple.co.uk,0.957,verified,1.075,VALIDATE
+Toyota,20,Toyota,4129 Oak Ave,USA,New York,www.toyota.co.uk,0.853,verified,1.589,TRAIN
+SmartWorks,1,Best SmartWorks,7647 Park Rd,UK,,www.smartworks.org,0.998,verified,2.049,TRAIN
+Digital Books,15,Digital Books Outlet,8531 Hill Rd,USA,Los Angeles,,0.0,verified,1.283,TRAIN
+DigitalWorks,5,DigitalWorks Outlet,6507 Second Ave,USA,Houston,www.digitalworks.co.uk,0.805,verified,1.991,TRAIN
+Google,15,Google Official,1677 Main St,UK,London,,0.921,verified,1.154,TEST
+Starbucks,20,Authentic Starbucks,8381 Market St,USA,Phoenix,,0.0,verified,1.78,TRAIN
+Google,15,Google Direct,6132 Second Ave,Australia,Perth,www.google.de,0.932,verified,1.356,TRAIN
+Spotify,18,Spotify Official,9729 Second Ave,Australia,Perth,www.spotify.net,0.938,verified,1.787,TRAIN
+DigitalSystems,3,DigitalSystems Online,4632 Park Rd,France,Nice,www.digitalsystems.co.uk,0.824,verified,2.181,TEST
+EliteLtd,2,EliteLtd Store,1772 First St,Australia,Adelaide,www.eliteltd.fr,0.988,not_verified,2.107,TRAIN
+Digital Books,15,Digital Books Direct,1046 Park Rd,Canada,Toronto,,0.0,verified,1.541,TRAIN
+Oracle,21,Oracle Online,4530 Market St,Canada,Vancouver,www.oracle.fr,0.836,verified,1.038,VALIDATE
+Smart Home,9,Smart-Home,5328 Hill Rd,France,Nantes,,0.0,not_verified,1.169,TEST
+Zara,23,Zara Outlet,4537 Park Rd,USA,New York,www.zara.co.uk,0.925,verified,0.812,TEST
+UniqueShop054,1,UniqueShop054 Outlet,4896 Oak Ave,UK,Bristol,,0.0,not_verified,2.46,TRAIN
+Pepsi,34,Pepsi Official,2457 Second Ave,Germany,Berlin,www.pepsi.co.uk,0.845,verified,0.854,TRAIN
+Pepsi,34,Pepsi Store,3938 Main St,Germany,Stuttgart,www.pepsi.org,0.861,not_verified,0.829,TRAIN
+UniqueShop002,1,UniqueShop002,9831 First St,USA,Chicago,www.uniqueshop002.net,0.909,verified,2.348,TRAIN
+Zara,23,Zara Store,,France,Nantes,www.zara.de,0.883,verified,1.018,VALIDATE
+H&M,13,H&M Online,5237 Market St,Germany,Hamburg,www.h&m.co.uk,0.832,verified,1.232,TRAIN
+Apple,26,Apple Online,2293 Market St,Australia,Sydney,www.apple.com,0.834,verified,0.885,TRAIN
+Walmart,5,Walmart Online,,France,Marseille,www.walmart.org,0.884,verified,2.204,VALIDATE
+Digital Beauty,10,Digital Beauty Market,418 Market St,France,Paris,www.digitalbeauty.co.uk,0.951,verified,1.293,TRAIN
+PrimeHub,4,PrimeHub,8149 Park Rd,Australia,Sydney,www.primehub.co.uk,0.98,verified,2.476,TEST
+Nike,31,Nike,4251 First St,Canada,Toronto,www.nike.fr,0.817,not_verified,1.12,TRAIN
+Ultra Music,2,Original Ultra Music,6629 First St,UK,Liverpool,www.ultramusic.org,0.879,verified,1.568,TEST
+Digital Books,15,DigitalBooks,579 Second Ave,USA,New York,www.digitalbooks.de,0.82,verified,1.213,TRAIN
+Zara,23,Zara Store,9373 Hill Rd,Australia,Melbourne,www.zara.fr,0.803,verified,1.111,TRAIN
+UniqueShop057,1,UniqueShop057 Market,3112 Park Rd,France,Toulouse,www.uniqueshop057.com,0.932,not_verified,2.845,TEST
+Digital Beauty,10,Digital Beauty Online,3644 Market St,UK,Manchester,,0.0,verified,1.55,TEST
+Global Music,6,Global Music Direct,8760 Market St,France,Nantes,,0.0,verified,1.049,TEST
+Toyota,20,Toyota Store,7795 Market St,UK,Liverpool,www.toyota.com,0.92,verified,1.008,TRAIN
+Pepsi,34,Pepsi,,Australia,Melbourne,www.pepsi.de,0.833,verified,0.932,TRAIN
+Microsoft,18,Microsoft Outlet,5874 Second Ave,France,Nantes,,0.0,not_verified,1.613,TRAIN
+Digital Travel,12,DigitalTravel,4919 Hill Rd,France,Toulouse,www.digitaltravel.fr,0.847,verified,1.649,TEST
+Pro Health,8,Pro Health Market,2786 Hill Rd,Australia,Sydney,www.prohealth.org,0.805,verified,1.357,TRAIN
+BMW,5,BMW Official,,Australia,Adelaide,www.bmw.co.uk,0.967,not_verified,2.193,TRAIN
+Ford,24,Ford,9147 Oak Ave,Canada,Edmonton,www.ford.de,0.995,not_verified,0.89,VALIDATE
+Prime Food,6,Prime Food Store,4814 Main St,Germany,Stuttgart,,0.0,not_verified,1.488,TRAIN
+Digital Music,3,Original Digital Music,7714 Oak Ave,Australia,Perth,www.digitalmusic.fr,0.827,not_verified,1.656,VALIDATE
+Global Food,8,Global Food Official,4238 Market St,USA,Los Angeles,www.globalfood.org,0.846,not_verified,1.455,TRAIN
+H&M,13,H&M,9160 Hill Rd,UK,Liverpool,www.h&m.org,0.974,verified,1.38,TRAIN
+Elite Health,5,Elite Health Shop,3000 Market St,Germany,Frankfurt,,0.985,verified,2.079,TRAIN
+SuperSolutions,1,SuperSolutions Direct,5500 Market St,Canada,Edmonton,www.supersolutions.org,0.884,not_verified,2.569,TRAIN
+Tech Home,6,The Tech Home,1464 Oak Ave,UK,Liverpool,www.techhome.com,0.81,verified,1.415,TRAIN
+Sony,19,Sony Outlet,5821 Oak Ave,France,Toulouse,www.sony.org,0.808,verified,1.186,TRAIN
+Nike,31,Nike Shop,5032 First St,Canada,Montreal,www.nike.fr,0.915,verified,0.924,TRAIN
+Apple,26,Apple,5429 Park Rd,France,Marseille,www.apple.de,0.879,verified,1.002,TRAIN
+Elite Travel,8,Elite Travel Online,4270 Second Ave,Canada,Calgary,www.elitetravel.co.uk,0.806,verified,1.206,TRAIN
+Global Home,4,Global Home Store,4818 First St,Australia,Perth,,0.0,not_verified,1.633,TRAIN
+Sony,19,Sony Official,1930 First St,Australia,Brisbane,,0.0,not_verified,1.694,TRAIN
+Global Auto,6,Global Auto Shop,880 Hill Rd,France,Lyon,www.globalauto.co.uk,0.917,not_verified,1.085,TRAIN
+Max Beauty,3,Top Max Beauty,,France,Nice,www.maxbeauty.fr,0.802,not_verified,2.308,TRAIN
+Toyota,20,Toyota Outlet,,UK,Glasgow,www.toyota.fr,0.957,verified,1.091,TRAIN
+GlobalLtd,4,GlobalLtd Online,9562 Second Ave,France,Nantes,www.globalltd.net,0.861,not_verified,2.334,TRAIN
+SmartInc,2,SmartInc Direct,1167 First St,Canada,Montreal,www.smartinc.fr,0.808,verified,2.146,TRAIN
+Intel,12,Intel Online,3188 Second Ave,Germany,Cologne,www.intel.fr,0.918,verified,1.423,VALIDATE
+Amazon,13,Authentic Amazon,1964 Hill Rd,Germany,Berlin,www.amazon.de,0.88,verified,1.511,TRAIN
+SuperLab,2,SuperLab Shop,6254 Second Ave,Australia,Sydney,www.superlab.net,0.995,verified,1.935,VALIDATE
+Coca-Cola,30,Coca-Cola Store,4889 First St,Canada,Ottawa,,0.0,verified,1.018,TRAIN
+UniqueShop069,1,UniqueShop069 Direct,886 Hill Rd,USA,Phoenix,www.uniqueshop069.de,0.909,verified,2.692,TRAIN
+SuperInc,2,SuperInc,2471 Oak Ave,UK,Birmingham,www.superinc.org,0.855,not_verified,1.663,TRAIN
+Zara,23,Zara Store,3282 Park Rd,USA,Chicago,www.zara.fr,0.942,verified,0.858,TRAIN
+SuperHub,6,Quality SuperHub,6705 Second Ave,UK,Manchester,www.superhub.fr,0.854,not_verified,1.423,TRAIN
+Digital Fashion,8,Digital Fashion Outlet,7497 Oak Ave,Canada,Toronto,www.digitalfashion.net,0.981,verified,1.085,TRAIN
+Starbucks,20,Starbucks Store,5184 Hill Rd,Australia,Brisbane,www.starbucks.org,0.875,verified,1.694,TEST
+Ford,24,Ford Direct,2955 Hill Rd,France,Nice,,0.0,not_verified,1.05,VALIDATE
+UltraLtd,7,UltraLtd,1325 First St,France,Nice,www.ultraltd.de,0.91,verified,1.09,TRAIN
+DigitalSolutions,1,DigitalSolutions Online,5450 Market St,France,Lyon,www.digitalsolutions.com,0.81,verified,2.257,TRAIN
+UltraCorp,5,UltraCorp Direct,2898 Park Rd,USA,New York,,0.0,verified,1.76,TRAIN
+HP,15,HP,951 Main St,Germany,Hamburg,,0.0,verified,1.754,TRAIN
+Apple,26,Apple Official,7407 Park Rd,UK,Manchester,www.apple.fr,0.885,verified,1.134,TRAIN
+UniqueShop086,1,UniqueShop086 Market,3431 Hill Rd,Canada,Montreal,,0.0,not_verified,2.113,TRAIN
+Ford,24,Ford Market,2763 Second Ave,France,Lyon,www.ford.com,0.966,verified,0.91,TRAIN
+UniqueShop040,1,UniqueShop040 Outlet,2596 First St,UK,,www.uniqueshop040.com,0.961,not_verified,2.341,TEST
+Samsung,27,Samsung Direct,1443 Oak Ave,Canada,Toronto,www.samsung.com,0.845,not_verified,0.905,TRAIN
+Elite Food,3,Top Elite Food,7106 Market St,France,Toulouse,www.elitefood.co.uk,0.845,verified,2.431,TRAIN
+Google,15,Google Online,7036 First St,France,Lyon,www.google.com,0.963,verified,1.557,TRAIN
+Adobe,21,Quality Adobe,7030 First St,Australia,Sydney,www.adobe.de,0.986,verified,1.135,TRAIN
+UniqueShop093,1,UniqueShop093 Shop,6281 Main St,Australia,Brisbane,,0.0,not_verified,2.976,TEST
+Netflix,26,Netflix Online,619 Second Ave,Germany,Munich,www.netflix.com,0.819,verified,1.129,TEST
+H&M,13,H&M Store,3268 Market St,Germany,Stuttgart,www.h&m.fr,0.89,verified,1.518,TRAIN
+Coca-Cola,30,Coca-Cola,6113 Main St,Australia,Adelaide,www.coca-cola.co.uk,0.867,verified,1.06,TEST
+DigitalLab,1,DigitalLab Official,5280 Hill Rd,USA,Phoenix,www.digitallab.org,0.974,not_verified,2.912,TRAIN
+Coca-Cola,30,Coca-Cola Outlet,8701 Oak Ave,Australia,Brisbane,www.coca-cola.net,0.817,verified,0.816,TEST
+MaxSolutions,1,MaxSolutions Store,294 Market St,USA,Philadelphia,,0.0,not_verified,2.826,TRAIN
+Prime Home,3,Prime Home Store,68 Market St,France,Toulouse,,0.0,not_verified,1.959,TEST
+Pepsi,34,Pepsi Official,4077 Oak Ave,USA,New York,www.pepsi.fr,0.842,verified,0.971,TRAIN
+Netflix,26,Best Netflix,5642 Park Rd,Canada,Montreal,www.netflix.org,0.95,verified,1.171,VALIDATE
+GlobalLtd,4,Quality GlobalLtd,2113 Main St,Germany,Cologne,,0.0,not_verified,1.812,VALIDATE
+H&M,13,H&M Shop,,USA,Los Angeles,www.h&m.org,0.81,verified,1.053,TRAIN
+UniqueShop099,1,UniqueShop099 Online,6285 Second Ave,Australia,Gold Coast,www.uniqueshop099.net,0.899,not_verified,2.36,TRAIN
+ProSolutions,2,ProSolutions,9645 Park Rd,France,Paris,www.prosolutions.com,0.888,verified,1.855,TRAIN
+UniqueShop089,1,UniqueShop089,2737 Main St,Australia,Gold Coast,www.uniqueshop089.com,0.867,not_verified,2.662,VALIDATE
+Apple,26,Apple Store,750 Park Rd,Germany,Berlin,,0.0,not_verified,0.907,TRAIN
+Pepsi,34,The Pepsi,4765 First St,Canada,Ottawa,www.pepsi.de,0.879,verified,0.85,TRAIN
+EliteWorks,2,EliteWorks,8525 Second Ave,USA,Chicago,www.eliteworks.com,0.906,not_verified,1.54,TRAIN
+Prime Food,6,Prime Food Official,8588 Park Rd,France,Nice,www.primefood.com,0.832,verified,1.696,TEST
+Digital Books,15,Digital-Books,7106 Market St,UK,Birmingham,www.digitalbooks.de,0.914,not_verified,1.359,TRAIN
+Nike,31,Nike Direct,2193 Park Rd,France,Nantes,,0.0,verified,0.831,TRAIN
+Coca-Cola,30,Coca-Cola,8032 Park Rd,UK,Manchester,www.coca-cola.fr,0.961,verified,1.129,TRAIN
+TechHub,2,TechHub Store,3088 Oak Ave,USA,Philadelphia,www.techhub.net,0.952,verified,1.921,TEST
+SuperSystems,2,SuperSystems Shop,6610 Main St,Australia,Perth,www.supersystems.de,0.831,not_verified,2.377,TEST
+Pro Home,5,The Pro Home,,Germany,Frankfurt,www.prohome.fr,0.83,verified,2.051,TRAIN
+Samsung,27,Samsung Shop,3743 Oak Ave,France,Nice,www.samsung.com,0.854,verified,0.841,TRAIN
+Nike,31,Nike Online,2150 Oak Ave,USA,Los Angeles,www.nike.fr,0.872,not_verified,1.128,TRAIN
+UniqueShop039,1,UniqueShop039,360 Second Ave,Germany,Hamburg,www.uniqueshop039.com,0.882,not_verified,2.049,TRAIN
+Puma,15,Top Puma,8268 Oak Ave,Germany,Munich,www.puma.com,0.936,verified,1.35,VALIDATE
+Ford,24,Ford,,UK,Birmingham,www.ford.de,0.811,verified,1.019,TRAIN
+Adobe,21,Adobe Online,2018 Park Rd,USA,Houston,www.adobe.net,0.807,verified,1.103,VALIDATE
+Digital Beauty,10,The Digital Beauty,613 First St,France,Nantes,www.digitalbeauty.co.uk,0.878,verified,1.149,TRAIN
+Elite Music,12,Elite Music,4191 Hill Rd,USA,Phoenix,,0.0,verified,1.147,TRAIN
+Ford,24,Ford Store,,Germany,Hamburg,www.ford.fr,0.939,verified,1.035,TRAIN
+Smart Beauty,6,Smart Beauty Direct,797 Second Ave,USA,Houston,www.smartbeauty.fr,0.839,not_verified,1.014,TRAIN
+Max Travel,5,Max Travel Store,786 Market St,France,Toulouse,www.maxtravel.de,0.928,verified,2.073,TRAIN
+Starbucks,20,Starbucks Direct,1772 Market St,Australia,Melbourne,www.starbucks.net,0.852,verified,1.261,TRAIN
+Tech Books,4,Tech Books Online,324 Main St,UK,Glasgow,www.techbooks.com,0.977,verified,2.096,TRAIN
+Mercedes,17,The Mercedes,1898 First St,France,Lyon,www.mercedes.fr,0.979,verified,1.021,TRAIN
+Intel,12,Intel Official,7280 First St,Germany,Cologne,www.intel.net,0.859,verified,1.501,TRAIN
+Netflix,26,Netflix Online,2025 Second Ave,Australia,Adelaide,www.netflix.org,0.846,verified,1.097,TRAIN
+UniqueShop083,1,Quality UniqueShop083,4141 First St,UK,Liverpool,www.uniqueshop083.org,0.882,not_verified,2.206,TRAIN
+Netflix,26,Netflix Store,2509 Oak Ave,France,Nantes,www.netflix.co.uk,0.848,verified,0.85,VALIDATE
+Elite Music,12,Elite_Music,153 Park Rd,France,Lyon,www.elitemusic.fr,0.934,verified,1.541,TRAIN
+PrimeLab,2,PrimeLab Outlet,6896 Market St,UK,London,www.primelab.com,0.965,not_verified,2.463,TEST
+Sony,19,Sony Shop,1655 Market St,Canada,Calgary,,0.935,verified,1.147,TRAIN
+UniqueShop022,1,Original UniqueShop022,8525 Park Rd,Canada,Edmonton,www.uniqueshop022.co.uk,0.965,verified,2.813,TRAIN
+UltraSolutions,3,UltraSolutions,9923 Market St,France,Paris,www.ultrasolutions.org,0.879,verified,2.118,TRAIN
+Digital Fashion,8,DigitalFashion,2248 First St,USA,Philadelphia,www.digitalfashion.co.uk,0.831,not_verified,1.563,TRAIN
+Prime Auto,9,Best Prime Auto,1719 Second Ave,Germany,Cologne,www.primeauto.fr,0.948,not_verified,1.045,TEST
+Toyota,20,Premium Toyota,1929 Park Rd,Canada,Montreal,,0.0,not_verified,1.681,TRAIN
+Elite Travel,8,Elite Travel Official,1868 Hill Rd,UK,Birmingham,www.elitetravel.fr,0.872,verified,1.512,TRAIN
+TechLtd,3,TechLtd Official,1742 First St,Canada,Ottawa,www.techltd.org,0.934,verified,2.458,TRAIN
+UltraSystems,1,UltraSystems,3255 Second Ave,Australia,Sydney,www.ultrasystems.org,0.854,verified,2.58,TRAIN
+McDonald's,18,Best McDonald's,3273 Hill Rd,Canada,Vancouver,,0.0,verified,1.57,TRAIN
+Ford,24,Ford Store,4309 Hill Rd,Canada,Ottawa,www.ford.net,0.816,verified,0.894,VALIDATE
+Intel,12,Best Intel,8572 Oak Ave,Germany,Frankfurt,www.intel.com,0.999,verified,1.732,TRAIN
+Global Fashion,7,Global Fashion Online,5865 Market St,UK,Glasgow,,0.0,verified,1.115,TRAIN
+ProSolutions,2,ProSolutions Official,6714 Park Rd,USA,Los Angeles,www.prosolutions.org,0.831,not_verified,2.001,TRAIN
+H&M,13,H&M Online,2628 Main St,UK,Bristol,www.h&m.com,0.998,not_verified,1.117,TRAIN
+Coca-Cola,30,Coca-Cola Official,8981 First St,Canada,Vancouver,,0.0,verified,0.893,VALIDATE
+Pepsi,34,Pepsi Market,3403 Market St,Australia,Sydney,www.pepsi.co.uk,0.995,verified,1.073,TRAIN
+ProZone,3,ProZone Store,7876 Park Rd,USA,Philadelphia,www.prozone.co.uk,0.959,verified,2.255,TRAIN
+Prime Home,3,Prime Home Direct,3843 Main St,USA,Los Angeles,www.primehome.org,0.932,verified,1.948,TRAIN
+McDonald's,18,Premium McDonald's,,France,Lyon,www.mcdonalds.com,0.916,verified,1.787,TEST
+Zara,23,Zara Outlet,209 Market St,Canada,Toronto,,0.0,verified,0.918,TEST
+Mercedes,17,Mercedes Market,1459 Main St,Canada,Edmonton,,0.0,verified,1.452,TRAIN
+Global Food,8,Global Food Outlet,9407 Market St,USA,Chicago,,0.0,verified,1.732,TRAIN
+Apple,26,Apple,8096 Oak Ave,Germany,Cologne,,0.0,verified,1.158,TRAIN
+UltraCorp,5,UltraCorp Store,1476 Hill Rd,USA,Chicago,www.ultracorp.org,0.973,verified,2.157,TRAIN
+Adobe,21,Adobe Shop,8384 Main St,UK,Bristol,www.adobe.org,0.858,not_verified,0.867,TRAIN
+Coca-Cola,30,Coca-Cola,1660 Park Rd,France,Lyon,www.coca-cola.net,0.894,not_verified,0.981,TRAIN
+Google,15,Google,3788 First St,UK,Liverpool,www.google.co.uk,0.924,not_verified,1.541,TRAIN
+Starbucks,20,Starbucks Online,4851 Park Rd,France,Marseille,,0.0,verified,1.151,TEST
+Google,15,Google Direct,,France,Toulouse,www.google.com,0.882,verified,1.074,VALIDATE
+Google,15,Authentic Google,,France,Nantes,,0.885,verified,1.084,TRAIN
+ProZone,3,ProZone,1636 Hill Rd,UK,Bristol,www.prozone.net,0.866,verified,2.296,TRAIN
+Apple,26,Apple Online,2863 Hill Rd,Australia,Gold Coast,www.apple.de,0.913,verified,0.852,TRAIN
+GlobalGroup,1,GlobalGroup Direct,647 Hill Rd,USA,Houston,www.globalgroup.co.uk,0.97,not_verified,2.197,TRAIN
+Zara,23,Zara Market,4761 Park Rd,France,Nantes,www.zara.net,0.84,verified,0.867,TEST
+Microsoft,18,Microsoft Direct,5124 First St,France,,www.microsoft.fr,0.987,not_verified,1.657,VALIDATE
+Pepsi,34,Pepsi Online,1899 Main St,Canada,Vancouver,www.pepsi.co.uk,0.938,verified,1.062,TEST
+DigitalLtd,3,DigitalLtd Shop,752 Main St,USA,Chicago,www.digitalltd.com,0.965,verified,2.177,VALIDATE
+Zara,23,Premium Zara,2268 Market St,UK,Bristol,www.zara.net,0.911,verified,1.051,TRAIN
+Digital Travel,12,Digital Travel Direct,2794 Park Rd,France,Marseille,www.digitaltravel.de,0.956,verified,1.031,VALIDATE
+Starbucks,20,Starbucks,5858 First St,USA,Houston,www.starbucks.co.uk,0.803,verified,1.713,TRAIN
+Max Travel,5,Max_Travel,4396 Market St,Australia,Sydney,www.maxtravel.net,0.964,verified,2.332,TRAIN
+Google,15,Google Outlet,1523 Park Rd,USA,Houston,www.google.de,0.808,not_verified,1.131,VALIDATE
+TechSolutions,1,TechSolutions Market,5616 Oak Ave,Australia,Brisbane,www.techsolutions.fr,0.978,not_verified,2.674,TRAIN
+PrimeSolutions,2,PrimeSolutions,1866 First St,Australia,Gold Coast,www.primesolutions.com,0.998,not_verified,2.486,TEST
+Netflix,26,Netflix Shop,6558 First St,Canada,Toronto,www.netflix.co.uk,0.859,verified,0.897,TRAIN
+UniqueShop096,1,Quality UniqueShop096,4454 Hill Rd,USA,Chicago,,0.0,not_verified,2.107,TRAIN
+ProWorks,1,ProWorks Direct,6320 Market St,Australia,Perth,www.proworks.fr,0.842,not_verified,2.91,VALIDATE
+DigitalWorks,5,DigitalWorks Official,7836 Hill Rd,UK,Glasgow,www.digitalworks.org,0.953,verified,2.131,TEST
+Spotify,18,Spotify Market,6910 Market St,France,Nantes,www.spotify.com,0.851,verified,1.35,TEST
+Netflix,26,Netflix Outlet,2733 Main St,USA,Chicago,,0.0,verified,1.105,TEST
+Sony,19,Sony Direct,,Germany,Frankfurt,www.sony.com,0.973,not_verified,1.753,TRAIN
+Smart Home,9,Quality Smart Home,2172 Market St,France,Paris,www.smarthome.com,0.821,verified,1.7,TRAIN
+Mercedes,17,Mercedes Official,961 Hill Rd,UK,Manchester,www.mercedes.com,0.825,verified,1.202,TEST
+Puma,15,Puma,2612 Main St,France,Toulouse,www.puma.de,0.996,verified,1.214,TRAIN
+Digital Travel,12,Digital-Travel,6817 Second Ave,France,Nantes,www.digitaltravel.fr,0.935,not_verified,1.507,TEST
+Global Books,4,Global Books Store,7909 Hill Rd,USA,New York,www.globalbooks.org,0.969,not_verified,1.757,TRAIN
+Zara,23,Zara Outlet,9322 Market St,UK,Liverpool,www.zara.co.uk,0.865,verified,0.811,TEST
+UniqueShop027,1,UniqueShop027 Shop,7179 Oak Ave,Canada,Montreal,,0.0,not_verified,2.627,TRAIN
+Starbucks,20,Starbucks,6222 Hill Rd,Germany,Cologne,www.starbucks.com,0.935,verified,1.658,VALIDATE
+SuperGroup,2,SuperGroup Market,,Australia,Melbourne,,0.0,verified,2.152,TEST
+EliteLtd,2,EliteLtd Outlet,,USA,Chicago,www.eliteltd.co.uk,0.919,verified,2.096,TRAIN
+UniqueShop008,1,Quality UniqueShop008,473 Hill Rd,Australia,Brisbane,www.uniqueshop008.net,0.921,verified,2.017,TRAIN
+UniqueShop078,1,UniqueShop078 Official,2141 First St,Canada,Edmonton,,0.0,not_verified,2.27,TEST
+Pro Home,5,Pro Home Store,7998 Main St,Canada,Vancouver,,0.0,not_verified,2.499,TRAIN
+Oracle,21,Oracle Online,6739 First St,France,Marseille,,0.0,verified,0.906,TRAIN
+Pro Fashion,6,Pro Fashion Market,754 Main St,USA,Philadelphia,www.profashion.fr,0.937,verified,1.772,TRAIN
+McDonald's,18,Best McDonald's,4287 Market St,Canada,Calgary,www.mcdonalds.fr,0.915,not_verified,1.402,TRAIN
+TechCorp,2,TechCorp Official,5149 Main St,USA,Phoenix,www.techcorp.com,0.886,not_verified,1.636,VALIDATE
+SmartHub,2,SmartHub Outlet,8599 Hill Rd,Canada,Vancouver,,0.0,not_verified,2.464,TEST
+Ford,24,Premium Ford,,UK,Birmingham,,0.0,verified,0.92,TRAIN
+Digital Books,15,Digital Books Shop,9448 Market St,Germany,Stuttgart,,0.0,verified,1.217,TRAIN
+Adidas,5,Adidas Online,,UK,London,,0.0,not_verified,1.878,TRAIN
+HP,15,HP Online,9258 Oak Ave,Australia,Perth,www.hp.com,0.855,verified,1.274,VALIDATE
+Global Home,4,GlobalHome,5543 Second Ave,France,Nantes,www.globalhome.fr,0.954,not_verified,2.13,TRAIN
+Apple,26,Apple Market,8571 Market St,France,Nantes,www.apple.co.uk,0.845,verified,0.867,VALIDATE
+Smart Beauty,6,Smart_Beauty,1561 First St,Australia,Melbourne,,0.0,not_verified,1.657,TRAIN
+Elite Travel,8,Elite-Travel,4073 First St,Germany,Munich,www.elitetravel.org,0.938,verified,1.056,TEST
+Smart Games,6,Smart Games Online,5665 Market St,France,Lyon,www.smartgames.net,0.847,verified,1.096,TEST
+Elite Fashion,3,Elite Fashion Online,,Germany,Hamburg,www.elitefashion.fr,0.925,verified,2.429,TRAIN
+Global Food,8,Global Food,6306 Oak Ave,France,Marseille,www.globalfood.org,0.949,verified,1.674,TRAIN
+ProCorp,2,Authentic ProCorp,9148 Second Ave,Germany,Frankfurt,,0.0,not_verified,2.209,VALIDATE
+H&M,13,H&M,895 Main St,UK,Manchester,www.h&m.co.uk,0.844,verified,1.139,TEST
+GlobalLtd,4,GlobalLtd Store,2572 Second Ave,Australia,Melbourne,www.globalltd.de,0.812,verified,2.137,TEST
+SuperZone,2,The SuperZone,7689 Hill Rd,France,Nice,www.superzone.com,0.826,verified,1.862,TRAIN
+Oracle,21,Oracle Outlet,8124 Hill Rd,Australia,Melbourne,www.oracle.de,0.921,verified,1.198,TRAIN
+Starbucks,20,Original Starbucks,,UK,Birmingham,www.starbucks.fr,0.97,verified,1.653,TRAIN
+Pepsi,34,Pepsi,2710 Main St,Australia,Gold Coast,www.pepsi.co.uk,0.809,verified,1.119,VALIDATE
+Elite Home,4,Elite Home Direct,8056 Park Rd,France,Lyon,www.elitehome.co.uk,0.947,verified,2.387,TRAIN
+Oracle,21,Oracle Shop,,Germany,Munich,www.oracle.co.uk,0.868,verified,1.042,TRAIN
+Global Food,8,Global Food,3947 Park Rd,Australia,Adelaide,www.globalfood.co.uk,0.896,verified,1.334,TEST
+Puma,15,Puma Online,4558 Main St,UK,Birmingham,www.puma.fr,0.986,verified,1.075,TRAIN
+Walmart,5,Walmart,8306 Oak Ave,USA,Phoenix,www.walmart.com,0.866,verified,2.374,TRAIN
+MaxInc,3,MaxInc Online,9020 Market St,France,Nantes,,0.0,verified,1.712,TEST
+Toyota,20,Toyota Store,,USA,Los Angeles,www.toyota.de,0.893,verified,1.256,TRAIN
+Puma,15,Puma,6204 First St,Canada,Vancouver,www.puma.net,0.803,verified,1.13,TRAIN
+Elite Music,12,The Elite Music,3851 Main St,Australia,Sydney,www.elitemusic.com,0.816,not_verified,1.681,VALIDATE
+Digital Travel,12,Digital-Travel,7522 First St,Canada,Calgary,,0.852,not_verified,1.325,TRAIN
+Elite Travel,8,Best Elite Travel,,Germany,Hamburg,www.elitetravel.fr,0.806,not_verified,1.115,TRAIN
+Max Travel,5,Max Travel Outlet,9389 First St,Germany,Stuttgart,,0.0,verified,1.52,TRAIN
+BMW,5,Quality BMW,1443 Hill Rd,Australia,Gold Coast,www.bmw.co.uk,0.926,verified,1.955,TRAIN
+Prime Auto,9,Prime-Auto,8167 First St,Canada,Vancouver,,0.0,not_verified,1.006,TRAIN
+Super Auto,6,Super Auto Online,5179 Main St,UK,London,www.superauto.com,0.885,verified,1.574,TRAIN
+Ford,24,Ford Market,8149 Market St,UK,Manchester,,0.0,verified,1.093,TRAIN
+Toyota,20,Authentic Toyota,292 Main St,USA,Phoenix,www.toyota.de,0.91,verified,1.651,TRAIN
+Coca-Cola,30,Coca-Cola Shop,6610 First St,France,Marseille,www.coca-cola.de,0.835,verified,0.884,TEST
+DigitalLtd,3,DigitalLtd Direct,588 Second Ave,France,Nice,www.digitalltd.org,0.859,verified,2.128,TEST
+UltraCorp,5,UltraCorp,8997 Main St,France,Lyon,www.ultracorp.org,0.933,not_verified,1.916,TRAIN
+Target,13,Target Market,1490 Hill Rd,France,Lyon,www.target.fr,0.993,verified,1.694,TRAIN
+Apple,26,Apple,9900 Second Ave,UK,Bristol,www.apple.org,0.81,verified,0.979,TRAIN
+Netflix,26,Netflix,4991 Second Ave,USA,Chicago,www.netflix.co.uk,0.978,verified,0.882,VALIDATE
+Amazon,13,Amazon Online,9214 Oak Ave,USA,Philadelphia,,0.0,not_verified,1.287,VALIDATE
+Toyota,20,The Toyota,7475 Park Rd,Germany,Munich,www.toyota.com,0.915,not_verified,1.384,TRAIN
+Pepsi,34,Pepsi Store,5954 Hill Rd,France,Nice,,0.0,verified,1.026,VALIDATE
+Netflix,26,Netflix Shop,890 Hill Rd,Germany,Stuttgart,www.netflix.fr,0.913,not_verified,1.12,TEST
+Microsoft,18,Microsoft Direct,3653 Hill Rd,Australia,Brisbane,www.microsoft.fr,0.9,verified,1.575,TRAIN
+Apple,26,Apple,7446 Park Rd,UK,Glasgow,www.apple.com,0.814,verified,0.997,TRAIN
+HP,15,HP Direct,9178 Hill Rd,Germany,Cologne,www.hp.org,0.818,verified,1.371,TRAIN
+Global Books,4,Global Books Market,9830 First St,UK,Manchester,www.globalbooks.de,0.92,verified,2.415,TRAIN
+Prime Music,6,Authentic Prime Music,5953 Market St,UK,Manchester,,0.0,verified,1.762,TEST
+McDonald's,18,McDonald's Outlet,7415 Main St,USA,Houston,www.mcdonalds.org,0.868,verified,1.505,VALIDATE
+SuperZone,2,SuperZone Market,1597 Hill Rd,USA,Chicago,www.superzone.com,0.983,verified,1.629,TRAIN
+Dell,18,Dell,3634 Main St,Germany,Munich,www.dell.co.uk,0.881,verified,1.079,TRAIN
+ProHub,1,ProHub Market,5593 Park Rd,Australia,Gold Coast,www.prohub.org,0.829,not_verified,2.447,TRAIN
+Adobe,21,Adobe Store,4784 Second Ave,UK,Manchester,www.adobe.fr,0.943,verified,0.888,TRAIN
+Coca-Cola,30,Coca-Cola Market,8553 Park Rd,USA,Los Angeles,www.coca-cola.net,0.859,verified,0.963,TRAIN
+Nike,31,Nike Market,1742 Main St,Germany,Frankfurt,www.nike.net,0.905,not_verified,1.084,TRAIN
+Smart Travel,3,Smart Travel Direct,,Germany,Stuttgart,www.smarttravel.de,0.94,verified,2.017,VALIDATE
+Nike,31,The Nike,2690 First St,Canada,Calgary,www.nike.com,0.98,verified,1.194,VALIDATE
+Puma,15,Puma Official,2302 Hill Rd,UK,Glasgow,,0.0,not_verified,1.228,TRAIN
+Amazon,13,The Amazon,6705 Main St,Germany,Berlin,www.amazon.co.uk,0.958,verified,1.088,TRAIN
+Samsung,27,Samsung Store,,France,Nantes,www.samsung.fr,0.935,not_verified,0.87,TRAIN
+Adobe,21,Adobe,4167 Second Ave,Germany,Stuttgart,www.adobe.net,0.936,verified,0.898,TRAIN
+Smart Home,9,Smart Home Direct,3210 Oak Ave,Canada,Calgary,,0.0,not_verified,1.621,TRAIN
+Prime Home,3,Original Prime Home,1979 Hill Rd,France,Nantes,www.primehome.org,0.989,not_verified,2.114,TRAIN
+ProZone,3,The ProZone,6438 Oak Ave,France,,www.prozone.fr,0.859,not_verified,1.579,TEST
+Microsoft,18,Microsoft Shop,7489 Hill Rd,France,Nice,www.microsoft.co.uk,0.8,verified,1.199,VALIDATE
+UltraLab,2,UltraLab Outlet,3123 Market St,Australia,Gold Coast,www.ultralab.com,0.854,not_verified,1.889,TRAIN
+Ultra Home,8,Ultra Home Shop,5537 Main St,USA,Phoenix,,0.0,not_verified,1.548,TEST
+Ford,24,Ford Shop,6791 Main St,USA,Houston,www.ford.fr,0.844,verified,0.896,TRAIN
+Tech Home,6,Premium Tech Home,9648 Main St,Germany,Berlin,www.techhome.fr,0.932,verified,1.329,TRAIN
+Digital Beauty,10,Top Digital Beauty,7382 First St,UK,Liverpool,www.digitalbeauty.org,0.927,verified,1.016,TRAIN
+Spotify,18,Spotify,,France,,www.spotify.co.uk,0.919,verified,1.772,TRAIN
+McDonald's,18,McDonald's,,Australia,Sydney,,0.0,verified,1.271,VALIDATE
+Dell,18,Dell,9656 Second Ave,France,Toulouse,www.dell.com,0.803,verified,1.544,TRAIN
+TechSystems,2,TechSystems Online,,France,Nantes,,0.0,not_verified,1.647,VALIDATE
+TechHub,2,TechHub Shop,2206 First St,USA,Los Angeles,www.techhub.fr,0.946,verified,2.29,TRAIN
+Prime Fashion,6,PrimeFashion,72 Second Ave,Canada,Calgary,www.primefashion.co.uk,0.865,verified,1.036,TRAIN
+Sony,19,Original Sony,796 Second Ave,Germany,Hamburg,www.sony.fr,0.933,verified,1.247,TRAIN
+UniqueShop016,1,UniqueShop016 Online,7092 Hill Rd,Canada,,www.uniqueshop016.net,0.911,verified,2.77,TRAIN
+Super Auto,6,Super Auto Online,9587 First St,UK,Glasgow,www.superauto.net,0.869,not_verified,1.32,TRAIN
+Apple,26,Apple,8329 Hill Rd,Canada,Ottawa,www.apple.com,0.827,not_verified,0.963,TEST
+SmartLab,3,SmartLab Outlet,2904 Market St,USA,Philadelphia,www.smartlab.net,0.819,not_verified,1.984,TRAIN
+Mercedes,17,Mercedes Market,9480 Oak Ave,France,Lyon,www.mercedes.com,0.966,verified,1.726,TRAIN
+Prime Auto,9,Prime Auto Online,,Germany,Stuttgart,www.primeauto.fr,0.984,verified,1.749,TRAIN
+Microsoft,18,Microsoft Online,2104 Main St,Germany,Berlin,,0.0,not_verified,1.633,TRAIN
+Dell,18,Dell,6348 Market St,Australia,Adelaide,www.dell.de,0.93,verified,1.644,TEST
+Coca-Cola,30,Coca-Cola Outlet,9840 Second Ave,USA,Los Angeles,www.coca-cola.net,0.821,verified,0.916,TRAIN
+Max Music,5,Best Max Music,5274 Second Ave,France,Nantes,www.maxmusic.co.uk,0.88,not_verified,1.55,TRAIN
+Apple,26,Apple Official,6303 First St,France,Lyon,www.apple.co.uk,0.946,verified,1.015,TRAIN
+Nike,31,Nike Store,9978 Market St,Germany,Cologne,www.nike.com,0.956,verified,1.058,TEST
+Tech Home,6,Tech Home Store,4068 Park Rd,Canada,Calgary,,0.0,verified,1.768,TRAIN
+UniqueShop001,1,UniqueShop001 Shop,6519 Park Rd,USA,Los Angeles,www.uniqueshop001.de,0.824,verified,2.143,VALIDATE
+Pro Health,8,Pro Health Direct,4820 First St,Germany,Frankfurt,www.prohealth.fr,0.8,verified,1.453,VALIDATE
+Sony,19,Sony Direct,2186 Oak Ave,Australia,Melbourne,www.sony.org,0.942,not_verified,1.533,TRAIN
+Puma,15,Puma Outlet,6763 Second Ave,Germany,Berlin,,0.0,not_verified,1.011,TRAIN
+UniqueShop058,1,UniqueShop058 Market,8394 Park Rd,Canada,Montreal,www.uniqueshop058.co.uk,0.871,verified,2.46,TRAIN
+Tech Food,4,TechFood,8976 Hill Rd,Australia,Gold Coast,www.techfood.de,0.851,verified,1.572,TEST
+Digital Books,15,Digital Books Official,5144 Market St,Australia,Melbourne,www.digitalbooks.co.uk,0.803,verified,1.403,TRAIN
+Amazon,13,Amazon Market,9070 Market St,Australia,Gold Coast,,0.0,not_verified,1.388,VALIDATE
+UniqueShop006,1,UniqueShop006 Direct,3561 Oak Ave,USA,New York,www.uniqueshop006.com,0.908,verified,2.648,TRAIN
+HP,15,HP Online,3436 Second Ave,USA,Philadelphia,www.hp.com,0.97,verified,1.698,TEST
+Prime Food,6,Top Prime Food,4761 Market St,Germany,Stuttgart,www.primefood.org,0.992,verified,1.126,TRAIN
+Apple,26,Apple Online,5658 Market St,Canada,Toronto,www.apple.com,0.913,not_verified,1.007,TRAIN
+UniqueShop095,1,UniqueShop095 Store,2174 Market St,France,Nantes,www.uniqueshop095.org,0.903,verified,2.627,TRAIN
+DigitalWorks,5,DigitalWorks,,Germany,Stuttgart,www.digitalworks.fr,0.817,verified,2.304,TEST
+Elite Travel,8,Elite Travel Direct,2914 Second Ave,France,Nice,,0.0,not_verified,1.783,TRAIN
+Coca-Cola,30,Coca-Cola Market,,UK,Glasgow,www.coca-cola.com,0.91,verified,0.982,TRAIN
+Zara,23,Zara Shop,8889 Market St,France,Toulouse,www.zara.co.uk,0.876,verified,0.853,TRAIN
+PrimeInc,3,PrimeInc Official,,USA,Los Angeles,www.primeinc.com,0.921,verified,2.046,TEST
+UniqueShop034,1,UniqueShop034 Store,5282 Market St,Canada,Ottawa,,0.0,verified,2.418,TRAIN
+Dell,18,Dell Shop,1891 Hill Rd,Australia,Melbourne,,0.0,not_verified,1.685,TRAIN
+Starbucks,20,Starbucks Direct,5772 Second Ave,UK,Manchester,www.starbucks.net,0.878,verified,1.073,TRAIN
+Starbucks,20,Starbucks Store,7871 Second Ave,UK,Bristol,www.starbucks.fr,0.848,verified,1.7,TRAIN
+Sony,19,Sony Outlet,9350 Market St,USA,Houston,www.sony.fr,0.819,verified,1.576,TRAIN
+SuperGroup,2,SuperGroup Official,6840 Market St,Canada,Montreal,www.supergroup.de,0.863,verified,2.123,TRAIN
+Max Travel,5,Max Travel Store,8748 Park Rd,Australia,Perth,www.maxtravel.co.uk,0.819,verified,2.289,TRAIN
+Nike,31,Best Nike,6921 Hill Rd,Canada,Edmonton,www.nike.fr,0.835,verified,1.056,TEST
+Intel,12,Intel Direct,210 Second Ave,UK,London,www.intel.de,0.997,verified,1.571,VALIDATE
+Pepsi,34,Pepsi Shop,,UK,Manchester,www.pepsi.net,0.889,verified,0.851,TRAIN
+Ford,24,Ford Online,,USA,Phoenix,www.ford.fr,0.906,verified,1.037,TRAIN
+UniqueShop075,1,Quality UniqueShop075,1745 Main St,Canada,Toronto,,0.0,verified,2.428,TRAIN
+Oracle,21,Top Oracle,6241 Oak Ave,Germany,Cologne,www.oracle.de,0.975,verified,1.08,TRAIN
+Google,15,Google Shop,870 Market St,Germany,Frankfurt,www.google.net,0.999,verified,1.085,TRAIN
+SmartGroup,3,SmartGroup,928 Oak Ave,USA,Phoenix,www.smartgroup.com,0.917,verified,2.315,TRAIN
+Pepsi,34,Pepsi,4375 Hill Rd,Germany,Munich,www.pepsi.com,0.962,not_verified,1.005,TRAIN
+UniqueShop007,1,UniqueShop007 Online,2637 Park Rd,UK,Liverpool,www.uniqueshop007.fr,0.865,not_verified,2.536,TRAIN
+Netflix,26,Best Netflix,,Australia,Perth,www.netflix.net,0.861,verified,1.139,TRAIN
+Max Music,5,Max-Music,4106 Oak Ave,Germany,Cologne,,0.881,verified,1.972,TRAIN
+Ford,24,Original Ford,1017 Market St,Germany,Berlin,www.ford.fr,0.935,verified,1.139,TEST
+Pepsi,34,Pepsi Shop,4836 Oak Ave,France,Nice,www.pepsi.com,0.936,verified,0.961,TEST
+UltraHub,2,UltraHub Shop,8867 Main St,USA,Los Angeles,www.ultrahub.co.uk,0.863,verified,1.992,TRAIN
+Zara,23,Quality Zara,5877 Hill Rd,France,Marseille,,0.0,verified,0.895,TRAIN
+Netflix,26,Netflix Official,7416 Main St,France,Nantes,,0.0,not_verified,0.995,TRAIN
+UniqueShop088,1,UniqueShop088 Shop,9206 Hill Rd,France,Lyon,www.uniqueshop088.de,0.827,verified,2.107,TRAIN
+ProInc,3,ProInc Shop,,USA,Los Angeles,www.proinc.com,0.926,verified,2.449,TRAIN
+Starbucks,20,Premium Starbucks,3676 Market St,UK,London,www.starbucks.net,0.826,verified,1.135,TRAIN
+TechInc,1,Authentic TechInc,9196 First St,Australia,Brisbane,www.techinc.fr,0.916,verified,2.307,TEST
+Microsoft,18,Microsoft Market,,USA,Los Angeles,www.microsoft.fr,0.939,verified,1.259,TRAIN
+Toyota,20,Toyota,3893 Second Ave,USA,Philadelphia,,0.94,verified,1.441,VALIDATE
+Max Beauty,3,Max Beauty,4713 Market St,France,Nice,www.maxbeauty.com,0.951,verified,1.947,TRAIN
+Elite Health,5,Elite Health Direct,770 First St,Canada,Montreal,www.elitehealth.net,0.975,not_verified,1.877,TRAIN
+Amazon,13,The Amazon,6350 First St,USA,New York,www.amazon.fr,0.9,verified,1.195,TRAIN
+Target,13,Target,,USA,Houston,www.target.com,0.946,verified,1.608,TEST
+Elite Music,12,Elite Music Shop,5123 Second Ave,UK,Manchester,www.elitemusic.org,0.924,verified,1.567,TRAIN
+Nike,31,Nike Outlet,882 Main St,Australia,Brisbane,www.nike.com,0.837,verified,0.968,VALIDATE
+Nike,31,Nike Online,4118 Oak Ave,France,Nantes,,0.0,not_verified,0.935,TRAIN
+Microsoft,18,Microsoft Market,7260 Hill Rd,Australia,Gold Coast,www.microsoft.co.uk,0.805,verified,1.164,TEST
+Amazon,13,Amazon Online,3696 Market St,France,Nice,www.amazon.de,0.857,verified,1.042,TRAIN
+Pepsi,34,Pepsi Market,6026 Hill Rd,France,Lyon,www.pepsi.net,0.889,verified,0.879,VALIDATE
+UniqueShop055,1,UniqueShop055 Online,9641 Second Ave,Germany,Stuttgart,www.uniqueshop055.de,0.923,not_verified,2.353,TRAIN
+McDonald's,18,McDonald's,9886 Oak Ave,France,Marseille,www.mcdonalds.com,0.97,verified,1.255,TRAIN
+Zara,23,Authentic Zara,3171 Park Rd,USA,New York,www.zara.com,0.839,not_verified,0.851,TRAIN
+Elite Music,12,Elite Music Market,7354 Oak Ave,Canada,Montreal,www.elitemusic.com,0.825,verified,1.394,TRAIN
+Prime Fashion,6,Prime Fashion Market,1221 Oak Ave,Canada,Calgary,www.primefashion.co.uk,0.993,verified,1.157,TRAIN
+Puma,15,Best Puma,2848 Market St,USA,Houston,,0.0,not_verified,1.781,TRAIN
+Apple,26,Apple,8419 Main St,France,Paris,,0.0,verified,1.169,VALIDATE
+Puma,15,Puma,6181 Main St,Canada,Calgary,www.puma.de,0.822,verified,1.216,TRAIN
+Sony,19,Authentic Sony,7021 Park Rd,UK,London,www.sony.de,0.896,verified,1.527,TEST
+Ford,24,Ford,9120 Park Rd,Australia,Brisbane,www.ford.net,0.917,not_verified,0.906,TRAIN
+SmartLtd,2,SmartLtd Official,2132 Oak Ave,Canada,Ottawa,,0.0,not_verified,1.552,TRAIN
+Mercedes,17,Mercedes,9569 Hill Rd,Germany,Frankfurt,www.mercedes.com,0.908,verified,1.003,TRAIN
+Super Auto,6,Super Auto Official,4179 Main St,UK,Bristol,,0.0,not_verified,1.642,TRAIN
+Ford,24,Best Ford,5416 First St,UK,Liverpool,www.ford.net,0.817,verified,1.004,TRAIN
+PrimeWorks,3,PrimeWorks Official,2537 Main St,USA,New York,www.primeworks.co.uk,0.811,verified,1.651,VALIDATE
+Target,13,Target Shop,2519 Park Rd,France,Nantes,www.target.org,0.821,verified,1.301,TRAIN
+Dell,18,Authentic Dell,9780 Main St,Australia,Adelaide,,0.0,not_verified,1.432,TEST
+SmartInc,2,SmartInc,4935 First St,USA,Houston,www.smartinc.fr,0.917,verified,1.518,TRAIN
+Amazon,13,Amazon Market,9383 Second Ave,Australia,Gold Coast,www.amazon.fr,0.909,verified,1.328,TRAIN
+Coca-Cola,30,Coca-Cola Store,5867 Main St,France,Nantes,www.coca-cola.co.uk,0.847,not_verified,1.055,VALIDATE
+Puma,15,Top Puma,5208 Second Ave,Canada,Calgary,www.puma.org,0.928,verified,1.373,TRAIN
+Adobe,21,The Adobe,3604 Oak Ave,France,Marseille,www.adobe.com,0.964,verified,0.843,TEST
+Prime Food,6,Prime Food Official,8530 Main St,Canada,Ottawa,www.primefood.fr,0.808,not_verified,1.627,TRAIN
+PrimeHub,4,Authentic PrimeHub,8277 Oak Ave,France,Nice,www.primehub.de,0.9,verified,2.012,VALIDATE
+Global Fashion,7,Global Fashion Direct,6815 Second Ave,Canada,Vancouver,www.globalfashion.de,0.938,verified,1.5,TEST
+Elite Music,12,Elite Music,,France,Nice,www.elitemusic.net,0.85,not_verified,1.464,VALIDATE
+Netflix,26,Netflix Market,8799 First St,Germany,Frankfurt,www.netflix.org,0.862,verified,0.82,TRAIN
+GlobalWorks,2,GlobalWorks Outlet,1507 Park Rd,Australia,Gold Coast,www.globalworks.net,0.923,verified,1.687,TRAIN
+MaxHub,5,MaxHub Online,3625 Oak Ave,Germany,Cologne,,0.0,verified,2.243,TRAIN
+Digital Books,15,The Digital Books,,UK,Liverpool,,0.0,not_verified,1.109,TRAIN
+Amazon,13,Amazon Outlet,5438 Park Rd,UK,Bristol,www.amazon.com,0.98,verified,1.124,TRAIN
+SuperHub,6,SuperHub Official,5912 Park Rd,Canada,Vancouver,www.superhub.de,0.962,verified,1.199,TRAIN
+HP,15,Authentic HP,3580 Hill Rd,USA,New York,www.hp.net,0.917,verified,1.204,TRAIN
+Nike,31,The Nike,8692 First St,USA,Houston,www.nike.org,0.946,verified,0.963,TRAIN
+Pepsi,34,Pepsi Market,9197 Hill Rd,Australia,Sydney,www.pepsi.com,0.873,not_verified,0.822,TRAIN
+Adobe,21,Adobe Official,145 Main St,Australia,Melbourne,www.adobe.com,0.928,verified,0.821,TRAIN
+Prime Fashion,6,Prime Fashion Direct,5669 First St,France,Toulouse,www.primefashion.org,0.893,verified,1.044,TEST
+Max Music,5,Max Music Store,3938 Market St,Germany,Berlin,,0.0,not_verified,2.012,TRAIN
+Mercedes,17,Mercedes Market,3995 Main St,Canada,Montreal,www.mercedes.net,0.838,verified,1.449,TRAIN
+UniqueShop074,1,Authentic UniqueShop074,5259 First St,France,Nantes,,0.0,verified,2.198,TRAIN
+Oracle,21,Oracle Store,1858 First St,UK,London,,0.0,verified,1.037,TRAIN
+UniqueShop029,1,UniqueShop029 Outlet,,Australia,Melbourne,www.uniqueshop029.co.uk,0.94,verified,2.116,TRAIN
+Zara,23,Best Zara,4204 Second Ave,Australia,Brisbane,www.zara.net,0.911,not_verified,0.809,TEST
+GlobalZone,2,GlobalZone Direct,4634 Main St,Canada,Toronto,www.globalzone.fr,0.872,not_verified,2.288,TEST
+Zara,23,Zara Online,8469 Hill Rd,Canada,Montreal,www.zara.org,0.982,verified,0.854,VALIDATE
+Digital Fashion,8,DigitalFashion,,France,Nice,www.digitalfashion.de,0.804,verified,1.558,TRAIN
+Sony,19,Sony Shop,,Canada,Toronto,,0.863,verified,1.626,VALIDATE
+GlobalZone,2,GlobalZone,6144 Second Ave,USA,Philadelphia,,0.0,not_verified,2.192,TRAIN
+Microsoft,18,Microsoft Outlet,8336 First St,Canada,Montreal,www.microsoft.co.uk,0.811,verified,1.195,TRAIN
+Apple,26,Authentic Apple,,Germany,Stuttgart,www.apple.net,0.953,verified,0.884,TRAIN
+Target,13,Target,7976 Main St,France,Nice,www.target.de,0.94,verified,1.563,TRAIN
+Amazon,13,Amazon Direct,4857 Market St,USA,Los Angeles,,0.0,verified,1.736,TRAIN
+Adobe,21,Adobe Official,3155 Park Rd,UK,Birmingham,www.adobe.com,0.866,verified,0.836,TRAIN
+Coca-Cola,30,Coca-Cola Shop,8420 Main St,Canada,Edmonton,www.coca-cola.net,0.935,not_verified,0.903,TRAIN
+SmartSystems,1,Premium SmartSystems,1573 Oak Ave,Germany,Cologne,www.smartsystems.com,0.879,verified,2.402,VALIDATE
+Netflix,26,Netflix Official,8815 Second Ave,USA,Philadelphia,www.netflix.fr,0.951,verified,0.999,TRAIN
+Prime Fashion,6,Prime Fashion Official,121 Market St,UK,Glasgow,www.primefashion.de,0.891,verified,1.321,TRAIN
+Adobe,21,Top Adobe,1073 Oak Ave,UK,Bristol,www.adobe.co.uk,0.882,verified,1.109,TRAIN
+UniqueShop046,1,UniqueShop046 Official,3493 Hill Rd,Germany,Frankfurt,www.uniqueshop046.net,0.987,not_verified,2.153,TRAIN
+Global Books,4,Global Books Store,6951 Hill Rd,Canada,Calgary,www.globalbooks.com,0.85,verified,1.873,VALIDATE
+Oracle,21,Oracle Shop,1703 Oak Ave,Germany,Stuttgart,www.oracle.co.uk,0.824,verified,1.119,TEST
+UltraCorp,5,UltraCorp,8811 Hill Rd,USA,Phoenix,www.ultracorp.com,0.917,not_verified,1.69,TRAIN
+Dell,18,Dell,7131 Market St,Canada,Ottawa,www.dell.com,0.994,verified,1.085,TRAIN
+Samsung,27,Samsung,1182 Market St,Australia,Gold Coast,www.samsung.com,0.876,verified,0.849,TRAIN
+MaxLtd,1,Authentic MaxLtd,2520 Main St,Canada,Ottawa,www.maxltd.net,0.812,not_verified,2.781,TRAIN
+Prime Food,6,Prime Food Shop,7524 Market St,France,Paris,www.primefood.com,0.868,verified,1.463,TRAIN
+Pro Health,8,Pro Health Shop,5435 Main St,UK,Liverpool,www.prohealth.fr,0.901,not_verified,1.443,TRAIN
+BMW,5,BMW Outlet,1434 Main St,Australia,Brisbane,www.bmw.fr,0.832,verified,1.879,TRAIN
+Toyota,20,Toyota Shop,890 Oak Ave,Canada,Toronto,www.toyota.de,0.932,verified,1.515,TRAIN
+Coca-Cola,30,Coca-Cola Direct,4128 Second Ave,UK,Birmingham,www.coca-cola.org,1.0,verified,1.147,TRAIN
+Elite Home,4,Elite Home Outlet,1155 Second Ave,USA,Chicago,www.elitehome.co.uk,0.89,not_verified,2.42,TRAIN
+Mercedes,17,Authentic Mercedes,3730 Park Rd,Germany,Stuttgart,www.mercedes.fr,0.871,verified,1.435,TRAIN
+Spotify,18,Spotify Online,,France,Lyon,www.spotify.co.uk,0.88,verified,1.606,TRAIN
+Microsoft,18,Quality Microsoft,7392 Market St,France,Nice,www.microsoft.fr,0.823,verified,1.133,VALIDATE
+Digital Travel,12,Digital Travel Shop,6627 First St,Germany,Munich,www.digitaltravel.net,0.977,verified,1.576,VALIDATE
+Samsung,27,Samsung Official,5184 Main St,France,Paris,www.samsung.net,0.883,verified,0.986,TRAIN
+Max Auto,6,Original Max Auto,,Canada,Edmonton,www.maxauto.net,0.877,verified,1.27,TRAIN
+Netflix,26,Netflix Online,6382 Market St,Canada,Edmonton,,0.0,verified,0.96,TEST
+McDonald's,18,McDonald's,1939 Second Ave,USA,Chicago,www.mcdonalds.fr,0.932,verified,1.496,TRAIN
+UniqueShop059,1,UniqueShop059 Market,97 Market St,Germany,Berlin,www.uniqueshop059.org,0.888,not_verified,2.836,TRAIN
+Smart Games,6,Smart Games Store,1037 Hill Rd,Germany,Munich,www.smartgames.de,0.93,verified,1.096,VALIDATE
+Google,15,Google Store,9595 Main St,Canada,Calgary,www.google.co.uk,0.812,not_verified,1.125,TRAIN
+Microsoft,18,Microsoft,1190 Park Rd,Canada,Vancouver,www.microsoft.co.uk,0.963,not_verified,1.674,TRAIN
+Netflix,26,Netflix Official,8239 Main St,France,Marseille,,0.0,verified,1.193,TRAIN
+Coca-Cola,30,Coca-Cola,4749 Hill Rd,UK,,www.coca-cola.net,0.988,verified,0.921,VALIDATE
+Ford,24,Ford Direct,4938 Second Ave,Canada,Toronto,www.ford.net,0.93,verified,0.94,TRAIN
